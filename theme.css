@@ -1,0 +1,12 @@
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.mobile-search{display:none}
+.button{background:var(--button);border-color:var(--button)}
+.button:hover{filter:brightness(.91)}
+.button-light{background:transparent;border-color:var(--green);color:var(--green)}
+.button-light:hover{background:var(--green);color:#fff;filter:none}
+.button-clay{background:var(--clay);border-color:var(--clay)}
+.modal-backdrop{position:fixed;inset:0;z-index:80;background:rgba(32,38,31,.52);display:grid;place-items:center;padding:18px;overflow:auto}
+.modal-card{width:min(520px,100%);max-height:min(88vh,760px);overflow:auto;box-shadow:var(--shadow)}
+.modal-card .admin-panel-head{position:sticky;top:-19px;background:#fff;padding:5px 0 13px;z-index:1}
+.modal-card .admin-panel-head .icon-button{font-size:22px}
+@media(max-width:760px){.header-tools .mobile-search{display:grid}.search-form.is-open{display:flex;position:absolute;left:5%;right:5%;top:64px;width:auto;height:48px;padding:0 12px;background:var(--paper);border:1px solid var(--line);box-shadow:var(--shadow)}}
