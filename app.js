@@ -87,11 +87,12 @@ const isFav = id => favorites.includes(id);
 function productCard(product) {
   const badgeClass = product.oldPrice ? 'sale' : '';
   const discount = product.oldPrice ? Math.round((1 - product.price / product.oldPrice) * 100) : 0;
+  const displayBadge = product.priceBasis ? (product.priceBasis === 'box' ? 'Preço por caixa' : 'Preço unitário') : product.badge;
   const rating = product.rating ? `<div class="product-rating">★ ★ ★ ★ ★ <span>${escapeHTML(product.rating)} (${product.reviews})</span></div>` : '';
   const quickAdd = product.catalogDetails && !product.stock
     ? '<button class="button" disabled>Estoque não informado</button>'
     : `<button class="button" data-action="add" data-id="${escapeHTML(product.id)}">Adicionar à sacola · ${money(product.price)}</button>`;
-  return `<article class="product-card animate-in"><div class="product-image"><a href="#/produto/${encodeURIComponent(product.slug)}" aria-label="Ver ${escapeHTML(product.name)}"><img loading="lazy" src="${getImage(product, 640)}" alt="${escapeHTML(product.name)}"></a>${product.badge ? `<span class="product-badge ${badgeClass}">${escapeHTML(product.badge)}</span>` : ''}<button class="favorite-button ${isFav(product.id) ? 'is-active' : ''}" data-action="favorite" data-id="${escapeHTML(product.id)}" aria-label="${isFav(product.id) ? 'Remover dos' : 'Adicionar aos'} favoritos">${icon('heart')}</button><div class="quick-add">${quickAdd}</div></div><div class="product-meta"><div class="product-brand">${escapeHTML(product.brand)}</div><a class="product-name" href="#/produto/${encodeURIComponent(product.slug)}">${escapeHTML(product.name)}</a>${rating}<div class="product-price">${money(product.price)}${product.oldPrice ? `<span class="old-price">${money(product.oldPrice)}</span><span class="discount-note">-${discount}%</span>` : ''}</div></div></article>`;
+  return `<article class="product-card animate-in"><div class="product-image"><a href="#/produto/${encodeURIComponent(product.slug)}" aria-label="Ver ${escapeHTML(product.name)}"><img loading="lazy" src="${getImage(product, 640)}" alt="${escapeHTML(product.name)}"></a>${displayBadge ? `<span class="product-badge ${badgeClass}">${escapeHTML(displayBadge)}</span>` : ''}<button class="favorite-button ${isFav(product.id) ? 'is-active' : ''}" data-action="favorite" data-id="${escapeHTML(product.id)}" aria-label="${isFav(product.id) ? 'Remover dos' : 'Adicionar aos'} favoritos">${icon('heart')}</button><div class="quick-add">${quickAdd}</div></div><div class="product-meta"><div class="product-brand">${escapeHTML(product.brand)}</div><a class="product-name" href="#/produto/${encodeURIComponent(product.slug)}">${escapeHTML(product.name)}</a>${rating}<div class="product-price">${money(product.price)}${product.oldPrice ? `<span class="old-price">${money(product.oldPrice)}</span><span class="discount-note">-${discount}%</span>` : ''}</div></div></article>`;
 }
 function header() {
   const count = cart.reduce((total, line) => total + line.qty, 0);
@@ -134,7 +135,11 @@ function productPage(product) {
 }
 const originalProductPage = productPage;
 productPage = product => {
-  const markup = originalProductPage(product);
+  let markup = originalProductPage(product);
+  if (product?.priceBasis) {
+    const priceLabel = product.priceBasis === 'box' ? 'Preço por caixa' : 'Preço por unidade';
+    markup = markup.replace(/<small style="color:var\(--muted\)">ou 3x de .*? sem juros<\/small>/, `<small class="product-price-basis">${priceLabel}</small>`);
+  }
   return product?.catalogDetails ? markup.replace('Avise-me quando voltar', 'Estoque não informado na tabela') : markup;
 };
 function cartLines() { return cart.map(line => ({ ...line, product: productById(line.id) })).filter(line => line.product); }
@@ -293,7 +298,8 @@ function openModal(type, id = '') {
     const product = id ? productById(id) : {};
     title = id ? 'Editar produto' : 'Novo produto';
       form = `<form data-form="product" data-id="${escapeHTML(id)}"><div class="form-grid"><div class="field full"><label>Nome do produto</label><input name="name" value="${escapeHTML(product?.name || '')}" required></div><div class="field"><label>Marca</label><input name="brand" value="${escapeHTML(product?.brand || 'Maison Botanique')}" required></div><div class="field"><label>Categoria</label><select name="category">${categories.map(c => `<option ${product?.category === c.name ? 'selected' : ''}>${escapeHTML(c.name)}</option>`).join('')}</select></div><div class="field"><label>Preço (R$)</label><input name="price" type="number" min="1" step="0.01" value="${product?.price || ''}" required></div><div class="field"><label>Estoque</label><input name="stock" type="number" min="0" value="${product?.stock ?? 0}" required></div><div class="field full"><label>URL da imagem</label><input type="url" name="image" value="${product?.image?.startsWith('https://') ? escapeHTML(product.image) : ''}" placeholder="https://..."></div><div class="field full"><label for="product-image-file">Imagem deste dispositivo</label><input id="product-image-file" type="file" name="imageFile" accept="image/jpeg,image/png,image/webp,image/avif"><small>JPG, PNG, WebP ou AVIF · máximo de 12 MB. A imagem é comprimida e salva neste navegador.</small><div class="local-image-preview" data-image-preview>${product?.image ? `<img src="${getImage(product)}" alt="Prévia da imagem do produto"><span>Imagem atual</span>` : ''}</div></div><div class="field full"><label>Descrição</label><textarea name="description">${escapeHTML(product?.description || '')}</textarea></div></div><button class="button" style="margin-top:17px" type="submit">Salvar produto</button></form>`;
-  } else if (type === 'taxonomy') {
+      form = form.replace('</div><div class="field"><label>Estoque</label>', `</div><div class="field"><label>Preço por</label><select name="priceBasis"><option value="unit" ${product?.priceBasis !== 'box' ? 'selected' : ''}>Unidade</option><option value="box" ${product?.priceBasis === 'box' ? 'selected' : ''}>Caixa</option></select></div><div class="field"><label>Estoque</label>`);
+    } else if (type === 'taxonomy') {
     title = id === 'category' ? 'Nova categoria' : 'Nova marca';
     form = `<form data-form="taxonomy" data-kind="${id}"><div class="field"><label>${id === 'category' ? 'Nome da categoria' : 'Nome da marca'}</label><input name="name" required></div><button class="button" style="margin-top:17px" type="submit">Salvar</button></form>`;
   } else if (type === 'expense') {
@@ -388,7 +394,7 @@ document.addEventListener('submit', async event => {
       try { image = await compressProductImage(imageFile); }
       catch (error) { toast(error.message || 'Não foi possível salvar a imagem.'); return; }
     }
-    const product = { ...existing, id, slug: existing?.slug || id, name: data.name, brand: data.brand, category: data.category, price: Number(data.price), oldPrice: existing?.oldPrice ?? null, rating: existing?.catalogDetails ? existing.rating : '5.0', reviews: existing?.reviews ?? 0, badge: existing?.badge || 'Novo', stock: Number(data.stock), image, description: data.description || existing?.description || 'Produto cadastrado pela administração.' };
+    const product = { ...existing, id, slug: existing?.slug || id, name: data.name, brand: data.brand, category: data.category, price: Number(data.price), priceBasis: data.priceBasis === 'box' ? 'box' : 'unit', oldPrice: existing?.oldPrice ?? null, rating: existing?.catalogDetails ? existing.rating : '5.0', reviews: existing?.reviews ?? 0, badge: existing?.badge || 'Novo', stock: Number(data.stock), image, description: data.description || existing?.description || 'Produto cadastrado pela administração.' };
     const localImageBytes = [...customProducts.filter(item => item.id !== id), product].reduce((total, item) => total + (isLocalProductImage(item.image) ? item.image.length : 0), 0);
     if (localImageBytes > 3_500_000) { toast('O limite de imagens locais deste navegador foi atingido.'); return; }
     customProducts = customProducts.filter(item => item.id !== id); customProducts.unshift(product); write('products', customProducts); document.querySelector('.modal-backdrop')?.remove(); render(); toast('Produto salvo no catálogo local');

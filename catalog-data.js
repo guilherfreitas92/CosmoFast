@@ -12,7 +12,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100549\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,08\nPreço por caixa: R$ 25,41\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100549\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,08\nPreço por caixa: R$ 25,41",
         "code":  "100549",
         "catalogDetails":  [
                                {
@@ -46,12 +46,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 25,41"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-acido-alfa-lipoico-60mg-ml-300mg-100550",
@@ -66,7 +63,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100550\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100550\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90",
         "code":  "100550",
         "catalogDetails":  [
                                {
@@ -100,12 +97,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 24,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-acido-tranexamico-4mg-ml-8mg-tgpii-2-8mg-100551",
@@ -120,7 +114,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100551\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,24\nPreço por caixa: R$ 46,20\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100551\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,24\nPreço por caixa: R$ 46,20",
         "code":  "100551",
         "catalogDetails":  [
                                {
@@ -154,12 +148,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 46,20"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-adek-vit-d3-600-000-ul-vit-k2-mk71300-mcg-vit-a-50000-ul-vit-e-500ul-ml-100552",
@@ -174,7 +165,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100552\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 42,00\nPreço por caixa: R$ 210,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100552\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 42,00\nPreço por caixa: R$ 210,00",
         "code":  "100552",
         "catalogDetails":  [
                                {
@@ -204,12 +195,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 210,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-bcaa-2ml-100698",
@@ -224,7 +212,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100698\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,00\nPreço por caixa: R$ 45,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100698\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,00\nPreço por caixa: R$ 45,00",
         "code":  "100698",
         "catalogDetails":  [
                                {
@@ -258,12 +246,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 45,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-beta-alanina-125mg-ml-250mg-100878",
@@ -278,7 +263,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100878\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 2,50\nPreço por caixa: R$ 12,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100878\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 2,50\nPreço por caixa: R$ 12,50",
         "code":  "100878",
         "catalogDetails":  [
                                {
@@ -312,12 +297,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 12,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-cafeina-50mg-ml-100mg-100690",
@@ -332,7 +314,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100690\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,18\nPreço por caixa: R$ 20,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100690\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,18\nPreço por caixa: R$ 20,90",
         "code":  "100690",
         "catalogDetails":  [
                                {
@@ -366,12 +348,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 20,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-carboximaltose-ferrica-50mg-ml-250mg-100887",
@@ -386,7 +365,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100887\nEstoque: Não informado na tabela\nVolume: 5ML\nPreço unitário: 43,98\nPreço por caixa: R$ 219,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100887\nEstoque: Não informado na tabela\nVolume: 5ML\nPreço unitário: 43,98\nPreço por caixa: R$ 219,90",
         "code":  "100887",
         "catalogDetails":  [
                                {
@@ -408,12 +387,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 219,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-orgi-citrus-oomg-2ml-morosil-100mg-l-carnit-600mg-collna-50mg-vlt-c-20mg-slliclo-100886",
@@ -428,7 +404,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100886\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 25,90\nPreço por caixa: R$ 129,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100886\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 25,90\nPreço por caixa: R$ 129,50",
         "code":  "100886",
         "catalogDetails":  [
                                {
@@ -462,12 +438,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 129,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-coenzima-q10-50mg-ml-100mg-100553",
@@ -482,7 +455,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100553\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 19,00\nPreço por caixa: R$ 95,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100553\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 19,00\nPreço por caixa: R$ 95,00",
         "code":  "100553",
         "catalogDetails":  [
                                {
@@ -512,12 +485,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 95,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-colageno-10mg-ml-20mg-100696",
@@ -532,7 +502,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100696\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,18\nPreço por caixa: R$ 30,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100696\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,18\nPreço por caixa: R$ 30,90",
         "code":  "100696",
         "catalogDetails":  [
                                {
@@ -566,12 +536,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 30,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-colina-100mg-ml-200mg-100695",
@@ -586,7 +553,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100695\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,22\nPreço por caixa: R$ 26,13\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100695\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,22\nPreço por caixa: R$ 26,13",
         "code":  "100695",
         "catalogDetails":  [
                                {
@@ -620,12 +587,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 26,13"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-complexo-b-com-bi-bi-5mg-b21-25mg-b315mg-b5-5mg-100554",
@@ -640,7 +604,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100554\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,02\nPreço por caixa: R$ 25,10\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100554\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,02\nPreço por caixa: R$ 25,10",
         "code":  "100554",
         "catalogDetails":  [
                                {
@@ -670,12 +634,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 25,10"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-complexo-b-sem-bi-b2-10mg-b3-15mg-b5-50mg-b6-10mg-2ml-100555",
@@ -690,7 +651,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100555\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,15\nPreço por caixa: R$ 20,79\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100555\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,15\nPreço por caixa: R$ 20,79",
         "code":  "100555",
         "catalogDetails":  [
                                {
@@ -724,12 +685,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 20,79"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-cromo-picolinato-100mcg-ml-200mcg-100556",
@@ -744,7 +702,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100556\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100556\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90",
         "code":  "100556",
         "catalogDetails":  [
                                {
@@ -778,12 +736,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 21 ,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-curcumina-100mg-ml-200mg-100557",
@@ -798,7 +753,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100557\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,19\nPreço por caixa: R$ 40,98\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100557\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,19\nPreço por caixa: R$ 40,98",
         "code":  "100557",
         "catalogDetails":  [
                                {
@@ -832,12 +787,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 40,98"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-dmae-30mg-ml-60mg-100558",
@@ -852,7 +804,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100558\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWSC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,59\nPreço por caixa: R$ 37,95\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100558\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWSC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,59\nPreço por caixa: R$ 37,95",
         "code":  "100558",
         "catalogDetails":  [
                                {
@@ -886,12 +838,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 37,95"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-dmso-dimetilsulfoxido-10mg-ml-20mg-100559",
@@ -906,7 +855,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100559\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100559\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90",
         "code":  "100559",
         "catalogDetails":  [
                                {
@@ -940,12 +889,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 25,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-d-ribose-250mg-ml-500mg-100616",
@@ -960,7 +906,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100616\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWEV/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,10\nPreço por caixa: R$ 45,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100616\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWEV/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,10\nPreço por caixa: R$ 45,50",
         "code":  "100616",
         "catalogDetails":  [
                                {
@@ -994,12 +940,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 45,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-dutasterida-1-mg-ml-100560",
@@ -1014,7 +957,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100560\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,94\nPreço por caixa: R$ 44,70\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100560\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,94\nPreço por caixa: R$ 44,70",
         "code":  "100560",
         "catalogDetails":  [
                                {
@@ -1044,12 +987,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 44,70"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-edta-15-150mg-ml-750mg-100691",
@@ -1064,7 +1004,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100691\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,70\nPreço por caixa: R$ 28,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100691\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,70\nPreço por caixa: R$ 28,50",
         "code":  "100691",
         "catalogDetails":  [
                                {
@@ -1098,12 +1038,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 28,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-finasterida-250mcg-ml-500mcg-100561",
@@ -1118,7 +1055,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100561\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,58\nPreço por caixa: R$ 22,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100561\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,58\nPreço por caixa: R$ 22,90",
         "code":  "100561",
         "catalogDetails":  [
                                {
@@ -1152,12 +1089,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 22,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-furosemida-5mg-ml-10mg-100621",
@@ -1172,7 +1106,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100621\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100621\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90",
         "code":  "100621",
         "catalogDetails":  [
                                {
@@ -1206,12 +1140,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 24,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-gaba-12-5mg-ml-25mg-100694",
@@ -1226,7 +1157,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100694\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78\nPreço por caixa: R$ 43,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100694\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78\nPreço por caixa: R$ 43,90",
         "code":  "100694",
         "catalogDetails":  [
                                {
@@ -1260,12 +1191,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 43,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-hialuronidase-2000-utr-100562",
@@ -1280,7 +1208,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100562\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 22,58\nPreço por caixa: R$ 112,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100562\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 22,58\nPreço por caixa: R$ 112,90",
         "code":  "100562",
         "catalogDetails":  [
                                {
@@ -1314,12 +1242,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 112,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-hialuronidase-3000-utr-100563",
@@ -1334,7 +1259,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100563\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 23,98\nPreço por caixa: R$ 119,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100563\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 23,98\nPreço por caixa: R$ 119,90",
         "code":  "100563",
         "catalogDetails":  [
                                {
@@ -1368,12 +1293,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 119,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-diluente-hialuronidase-00627D",
@@ -1388,7 +1310,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 00627D\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10\nPreço por caixa: R$ 0,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 00627D\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10\nPreço por caixa: R$ 0,50",
         "code":  "00627D",
         "catalogDetails":  [
                                {
@@ -1422,12 +1344,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 0,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-hmb-25mg-ml-50mg-100693",
@@ -1442,7 +1361,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100693\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,50\nPreço por caixa: R$ 27,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100693\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,50\nPreço por caixa: R$ 27,50",
         "code":  "100693",
         "catalogDetails":  [
                                {
@@ -1476,12 +1395,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 27,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-inositol-50mg-ml-100mg-100564",
@@ -1496,7 +1412,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100564\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100564\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90",
         "code":  "100564",
         "catalogDetails":  [
                                {
@@ -1530,12 +1446,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 25,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-arginina-500mg-ml-1-g-100883",
@@ -1550,7 +1463,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100883\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,40\nPreço por caixa: R$ 42,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100883\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,40\nPreço por caixa: R$ 42,00",
         "code":  "100883",
         "catalogDetails":  [
                                {
@@ -1584,12 +1497,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 42,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-carnitina-300mg-ml-600mg-100619",
@@ -1604,7 +1514,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100619\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,58\nPreço por caixa: R$ 42,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100619\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,58\nPreço por caixa: R$ 42,90",
         "code":  "100619",
         "catalogDetails":  [
                                {
@@ -1638,12 +1548,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 42,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-glicina-37-5mg-ml-75mg-100565",
@@ -1658,7 +1565,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100565\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,84\nPreço por caixa: R$ 24,20\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100565\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,84\nPreço por caixa: R$ 24,20",
         "code":  "100565",
         "catalogDetails":  [
                                {
@@ -1692,12 +1599,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 24,20"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-glutationa-50mg-ml-100mg-100566",
@@ -1712,7 +1616,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100566\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,17\nPreço por caixa: R$ 50,88\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100566\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,17\nPreço por caixa: R$ 50,88",
         "code":  "100566",
         "catalogDetails":  [
                                {
@@ -1746,12 +1650,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 50,88"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-lidocaina-1-10mg-ml-20mg-100567",
@@ -1766,7 +1667,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100567\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC\nApresentação: 5 AMP\nPreço unitário: R$ 5,98\nPreço por caixa: R$ 29,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100567\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC\nApresentação: 5 AMP\nPreço unitário: R$ 5,98\nPreço por caixa: R$ 29,90",
         "code":  "100567",
         "catalogDetails":  [
                                {
@@ -1796,12 +1697,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 29,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-lidocaina-10-0-10mg-ml-50mg-100568",
@@ -1816,7 +1714,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100568\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/SC/ID\nApresentação: 5 AMP\nPreço unitário: R$ 9,38\nPreço por caixa: R$ 46,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100568\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/SC/ID\nApresentação: 5 AMP\nPreço unitário: R$ 9,38\nPreço por caixa: R$ 46,90",
         "code":  "100568",
         "catalogDetails":  [
                                {
@@ -1846,12 +1744,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 46,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-lisina-375mg-ml-750mg-100569",
@@ -1866,7 +1761,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100569\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 3,98\nPreço por caixa: R$ 19,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100569\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 3,98\nPreço por caixa: R$ 19,90",
         "code":  "100569",
         "catalogDetails":  [
                                {
@@ -1900,12 +1795,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 19,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-ornitina-150mg-ml-300mg-100570",
@@ -1920,7 +1812,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100570\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,30\nPreço por caixa: R$ 46,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100570\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,30\nPreço por caixa: R$ 46,50",
         "code":  "100570",
         "catalogDetails":  [
                                {
@@ -1954,12 +1846,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 46,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-prolina-250mg-ml-500mg-100571",
@@ -1974,7 +1863,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100571\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,78\nPreço por caixa: R$ 33,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100571\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,78\nPreço por caixa: R$ 33,90",
         "code":  "100571",
         "catalogDetails":  [
                                {
@@ -2008,12 +1897,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 33,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-l-theanina-30mg-ml-60mg-100882",
@@ -2028,7 +1914,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100882\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100882\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90",
         "code":  "100882",
         "catalogDetails":  [
                                {
@@ -2062,12 +1948,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 24,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-melatonina-1-5mg-ml-3mg-100689",
@@ -2082,7 +1965,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100689\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 12,58\nPreço por caixa: R$ 62,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100689\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 12,58\nPreço por caixa: R$ 62,90",
         "code":  "100689",
         "catalogDetails":  [
                                {
@@ -2116,12 +1999,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 62,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-minoxidil-5mg-ml-10mg-100572",
@@ -2136,7 +2016,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100572\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100572\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90",
         "code":  "100572",
         "catalogDetails":  [
                                {
@@ -2170,12 +2050,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 25,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-morosil-20mg-ml-40mg-100573",
@@ -2190,7 +2067,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100573\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 16,50\nPreço por caixa: R$ 82,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100573\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 16,50\nPreço por caixa: R$ 82,50",
         "code":  "100573",
         "catalogDetails":  [
                                {
@@ -2224,12 +2101,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 82,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-msm-metilsulfonilmetano-150mg-ml-750mg-100574",
@@ -2244,7 +2118,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100574\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,90\nPreço por caixa: R$ 34,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100574\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,90\nPreço por caixa: R$ 34,50",
         "code":  "100574",
         "catalogDetails":  [
                                {
@@ -2278,12 +2152,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 34,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-n-acetllclsteina-150mg-ml-300mg-100575",
@@ -2298,7 +2169,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100575\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,99\nPreço por caixa: R$ 24,95\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100575\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,99\nPreço por caixa: R$ 24,95",
         "code":  "100575",
         "catalogDetails":  [
                                {
@@ -2332,12 +2203,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 24,95"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-nadh-50mg-100813",
@@ -2352,7 +2220,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100813\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 39,00\nPreço por caixa: R$ 195,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100813\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 39,00\nPreço por caixa: R$ 195,00",
         "code":  "100813",
         "catalogDetails":  [
                                {
@@ -2382,12 +2250,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 195,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-diluente-nadh-00813D",
@@ -2402,7 +2267,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 00813D\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10\nPreço por caixa: R$ 0,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 00813D\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10\nPreço por caixa: R$ 0,50",
         "code":  "00813D",
         "catalogDetails":  [
                                {
@@ -2432,12 +2297,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 0,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-okg-ornitina-alfa-cetoglutarato-250mg-ml-500mg-100576",
@@ -2452,7 +2314,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100576\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,98\nPreço por caixa: R$ 49,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100576\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,98\nPreço por caixa: R$ 49,90",
         "code":  "100576",
         "catalogDetails":  [
                                {
@@ -2486,12 +2348,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 49,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-pentoxifilina-20mg-ml-40mg-100577",
@@ -2506,7 +2365,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100577\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,10\nPreço por caixa: R$ 20,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100577\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,10\nPreço por caixa: R$ 20,50",
         "code":  "100577",
         "catalogDetails":  [
                                {
@@ -2540,12 +2399,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 20,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-25mg-d-pantenol-25mg-vit-b2-12-5mg-vit-b3-25mg-vit-b6-25mg-lisina-100888",
@@ -2560,7 +2416,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100888\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,90\nPreço por caixa: R$ 54,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100888\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,90\nPreço por caixa: R$ 54,50",
         "code":  "100888",
         "catalogDetails":  [
                                {
@@ -2594,12 +2450,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 54,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-piracetam-50mg-ml-100692",
@@ -2614,7 +2467,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100692\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,67\nPreço por caixa: R$ 38,39\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100692\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,67\nPreço por caixa: R$ 38,39",
         "code":  "100692",
         "catalogDetails":  [
                                {
@@ -2648,12 +2501,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 38,39"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-pirroloquinolinoquinona-pqq-2-5mg-ml-5mg-100578",
@@ -2668,7 +2518,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100578\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 9,78\nPreço por caixa: R$ 48,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100578\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 9,78\nPreço por caixa: R$ 48,90",
         "code":  "100578",
         "catalogDetails":  [
                                {
@@ -2702,12 +2552,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 48,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-lisina-31-mg-l-prolina-90mg-l-serlna-120mg-l-metlonlna-45mg-l-arglnlna-100879",
@@ -2722,7 +2569,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100879\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11 ,58\nPreço por caixa: R$ 57,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100879\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11 ,58\nPreço por caixa: R$ 57,90",
         "code":  "100879",
         "catalogDetails":  [
                                {
@@ -2756,12 +2603,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 57,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-330mg-pool-cognitivo-2-ml-colina-330mg-acetil-l-carnitina-80mg-d-pantenol-100880",
@@ -2776,7 +2620,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100880\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98\nPreço por caixa: R$ 54,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100880\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98\nPreço por caixa: R$ 54,90",
         "code":  "100880",
         "catalogDetails":  [
                                {
@@ -2806,12 +2650,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 54,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-manganes-magnesio-25mg-picolinato-de-cromo-200mcg-sulf-zinco-25mg-sulf-100881",
@@ -2826,7 +2667,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100881\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,98\nPreço por caixa: R$ 34,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100881\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,98\nPreço por caixa: R$ 34,90",
         "code":  "100881",
         "catalogDetails":  [
                                {
@@ -2860,12 +2701,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 34,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-procaina-10mg-ml-20mg-100579",
@@ -2880,7 +2718,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100579\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100579\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90",
         "code":  "100579",
         "catalogDetails":  [
                                {
@@ -2914,12 +2752,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 23,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-resveratrol-2-5mg-ml-5mg-100580",
@@ -2934,7 +2769,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100580\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 8,98\nPreço por caixa: R$ 44,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100580\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 8,98\nPreço por caixa: R$ 44,90",
         "code":  "100580",
         "catalogDetails":  [
                                {
@@ -2968,12 +2803,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 44,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-selenio-40mcg-ml-80mcg-100581",
@@ -2988,7 +2820,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100581\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100581\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90",
         "code":  "100581",
         "catalogDetails":  [
                                {
@@ -3022,12 +2854,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 20,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-silicio-organico-5mg-ml-10mg-100583",
@@ -3042,7 +2871,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100583\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58\nPreço por caixa: R$ 22,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100583\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58\nPreço por caixa: R$ 22,90",
         "code":  "100583",
         "catalogDetails":  [
                                {
@@ -3076,12 +2905,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 22,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-sulfato-de-cobre-250mcg-ml-500mcg-100584",
@@ -3096,7 +2922,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100584\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100584\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90",
         "code":  "100584",
         "catalogDetails":  [
                                {
@@ -3130,12 +2956,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 21 ,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-sulfato-de-magnesio-1-200mg-100585",
@@ -3150,7 +2973,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100585\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100585\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90",
         "code":  "100585",
         "catalogDetails":  [
                                {
@@ -3184,12 +3007,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 30,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-sulfato-de-manganes-25mg-ml-100586",
@@ -3204,7 +3024,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100586\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100586\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90",
         "code":  "100586",
         "catalogDetails":  [
                                {
@@ -3238,12 +3058,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 20,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-sulfato-de-zinco-10mg-ml-20mg-100587",
@@ -3258,7 +3075,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100587\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IWID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 3,74\nPreço por caixa: R$ 18,70\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100587\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IWID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 3,74\nPreço por caixa: R$ 18,70",
         "code":  "100587",
         "catalogDetails":  [
                                {
@@ -3292,12 +3109,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 18,70"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-taurina-1-100mg-ml-500mg-100588",
@@ -3312,7 +3126,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100588\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100588\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90",
         "code":  "100588",
         "catalogDetails":  [
                                {
@@ -3346,12 +3160,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 30,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-timomodulina-25mg-ml-50mg-100589",
@@ -3366,7 +3177,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100589\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100589\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90",
         "code":  "100589",
         "catalogDetails":  [
                                {
@@ -3400,12 +3211,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 30,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-tirzepatida-20mg-1-0ml-100897",
@@ -3420,7 +3228,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100897\nEstoque: Não informado na tabela\nVolume: 1.0ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 800,00\nPreço por caixa: R$ 800,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100897\nEstoque: Não informado na tabela\nVolume: 1.0ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 800,00\nPreço por caixa: R$ 800,00",
         "code":  "100897",
         "catalogDetails":  [
                                {
@@ -3454,12 +3262,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 800,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-tirzepatida-30mg-1-2ml-100898",
@@ -3474,7 +3279,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100898\nEstoque: Não informado na tabela\nVolume: 1.2ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.200,oo\nPreço por caixa: R$ 1.200,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100898\nEstoque: Não informado na tabela\nVolume: 1.2ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.200,oo\nPreço por caixa: R$ 1.200,00",
         "code":  "100898",
         "catalogDetails":  [
                                {
@@ -3508,12 +3313,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 1.200,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-tirzepatida-40mg-1-6ml-100900",
@@ -3528,7 +3330,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100900\nEstoque: Não informado na tabela\nVolume: 1.6ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.400,oo\nPreço por caixa: R$ 1.400,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100900\nEstoque: Não informado na tabela\nVolume: 1.6ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.400,oo\nPreço por caixa: R$ 1.400,00",
         "code":  "100900",
         "catalogDetails":  [
                                {
@@ -3562,12 +3364,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 1.400,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-tirzepatida-60mg-2-4ml-100901",
@@ -3582,7 +3381,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100901\nEstoque: Não informado na tabela\nVolume: 2.4ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.680,oo\nPreço por caixa: R$ 1.680,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100901\nEstoque: Não informado na tabela\nVolume: 2.4ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.680,oo\nPreço por caixa: R$ 1.680,00",
         "code":  "100901",
         "catalogDetails":  [
                                {
@@ -3616,12 +3415,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 1.680,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-tirzepatida-90mg-3-6ml-100902",
@@ -3636,7 +3432,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100902\nEstoque: Não informado na tabela\nVolume: 3.6ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 2.000,00\nPreço por caixa: R$ 2.000,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100902\nEstoque: Não informado na tabela\nVolume: 3.6ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 2.000,00\nPreço por caixa: R$ 2.000,00",
         "code":  "100902",
         "catalogDetails":  [
                                {
@@ -3670,12 +3466,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 2.000,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-triancinolona-40mg-ml-100697",
@@ -3690,7 +3483,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100697\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 21 ,98\nPreço por caixa: R$ 109,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100697\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 21 ,98\nPreço por caixa: R$ 109,90",
         "code":  "100697",
         "catalogDetails":  [
                                {
@@ -3724,12 +3517,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 109,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-trio-metilcobalamina-metilador-vitamina-2500mcg-2ml-b6-30-mg-metilfolato-3500mcg-vitamina-bi-2-100592",
@@ -3744,7 +3534,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100592\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 30,98\nPreço por caixa: R$ 154,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100592\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 30,98\nPreço por caixa: R$ 154,90",
         "code":  "100592",
         "catalogDetails":  [
                                {
@@ -3778,12 +3568,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 154,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-trio-200mcg-2ml-redux-cafeina-1-l-cartinina-100mg-cromo-picolinato-100593",
@@ -3798,7 +3585,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100593\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 27,50\nPreço por caixa: R$ 137,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100593\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 27,50\nPreço por caixa: R$ 137,50",
         "code":  "100593",
         "catalogDetails":  [
                                {
@@ -3832,12 +3619,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 137,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-tripeptideo-41-2-20mg-ml-40mg-100594",
@@ -3852,7 +3636,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100594\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11\nPreço por caixa: R$ 59,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100594\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11\nPreço por caixa: R$ 59,90",
         "code":  "100594",
         "catalogDetails":  [
                                {
@@ -3886,12 +3670,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 59,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vanadio-50mcg-ml-100595",
@@ -3906,7 +3687,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100595\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,38\nPreço por caixa: R$ 31\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100595\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,38\nPreço por caixa: R$ 31",
         "code":  "100595",
         "catalogDetails":  [
                                {
@@ -3940,12 +3721,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 31"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-a-palmitato-de-retinol-25-000ul-ml-100596",
@@ -3960,7 +3738,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100596\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,18\nPreço por caixa: R$ 25,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100596\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,18\nPreço por caixa: R$ 25,90",
         "code":  "100596",
         "catalogDetails":  [
                                {
@@ -3990,12 +3768,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 25,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-bi-tiamina-100mg-ml-100597",
@@ -4010,7 +3785,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100597\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,62\nPreço por caixa: R$ 23,10\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100597\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,62\nPreço por caixa: R$ 23,10",
         "code":  "100597",
         "catalogDetails":  [
                                {
@@ -4044,12 +3819,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 23,10"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b12-metilcobalamina-2500mcg-ml-100599",
@@ -4064,7 +3836,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100599\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 17,90\nPreço por caixa: R$ 89,50\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100599\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 17,90\nPreço por caixa: R$ 89,50",
         "code":  "100599",
         "catalogDetails":  [
                                {
@@ -4098,12 +3870,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 89,50"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b12-metilcobalamina-25mg-ml-100600",
@@ -4118,7 +3887,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100600\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 24,20\nPreço por caixa: R$ 121\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100600\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 24,20\nPreço por caixa: R$ 121",
         "code":  "100600",
         "catalogDetails":  [
                                {
@@ -4152,12 +3921,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 121"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b12-metilcobalamina-500mcg-ml-100601",
@@ -4172,7 +3938,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100601\nEstoque: Não informado na tabela\nVolume: 1 ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11\nPreço por caixa: R$ 59,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100601\nEstoque: Não informado na tabela\nVolume: 1 ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11\nPreço por caixa: R$ 59,90",
         "code":  "100601",
         "catalogDetails":  [
                                {
@@ -4206,12 +3972,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 59,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b2-riboflavina-25mgml-50mg-100602",
@@ -4226,7 +3989,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100602\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58\nPreço por caixa: R$ 22,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100602\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58\nPreço por caixa: R$ 22,90",
         "code":  "100602",
         "catalogDetails":  [
                                {
@@ -4260,12 +4023,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 22,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b3-niacinamida-15mg-ml-30mg-100603",
@@ -4280,7 +4040,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100603\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100603\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90",
         "code":  "100603",
         "catalogDetails":  [
                                {
@@ -4314,12 +4074,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 20,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b5-d-pantenol-40mg-ml-80mg-100604",
@@ -4334,7 +4091,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100604\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100604\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21",
         "code":  "100604",
         "catalogDetails":  [
                                {
@@ -4368,12 +4125,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 21"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b6-piridoxina-50mg-ml-100mg-100605",
@@ -4388,7 +4142,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100605\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100605\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90",
         "code":  "100605",
         "catalogDetails":  [
                                {
@@ -4422,12 +4176,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 21 ,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b7-biotina-5mg-ml-10mg-100606",
@@ -4442,7 +4193,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100606\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,84\nPreço por caixa: R$ 24,20\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100606\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,84\nPreço por caixa: R$ 24,20",
         "code":  "100606",
         "catalogDetails":  [
                                {
@@ -4476,12 +4227,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 24,20"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-b9-metilfolato-5-mthf-ou-5-metiltetrahidrofolato-3500mcg-ml-100607",
@@ -4496,7 +4244,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100607\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98\nPreço por caixa: R$ 54,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100607\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98\nPreço por caixa: R$ 54,90",
         "code":  "100607",
         "catalogDetails":  [
                                {
@@ -4530,12 +4278,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 54,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-c-acido-ascorbico-100608",
@@ -4550,7 +4295,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100608\nEstoque: Não informado na tabela\nVolume: 5ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100608\nEstoque: Não informado na tabela\nVolume: 5ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90",
         "code":  "100608",
         "catalogDetails":  [
                                {
@@ -4580,12 +4325,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 23,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-c-acido-ascorbico-222mg-ml-444mg-100609",
@@ -4600,7 +4342,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100609\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100609\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90",
         "code":  "100609",
         "catalogDetails":  [
                                {
@@ -4634,12 +4376,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 23,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-d3-colecalciferol-ioo-oooui-ml-100610",
@@ -4654,7 +4393,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100610\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 23,04\nPreço por caixa: R$ 115,20\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100610\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 23,04\nPreço por caixa: R$ 115,20",
         "code":  "100610",
         "catalogDetails":  [
                                {
@@ -4684,12 +4423,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 115,20"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-d3-colecalciferol-600-oooul-ml-100611",
@@ -4704,7 +4440,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100611\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,18\nPreço por caixa: R$ 125,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100611\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,18\nPreço por caixa: R$ 125,90",
         "code":  "100611",
         "catalogDetails":  [
                                {
@@ -4734,12 +4470,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 125,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-e-alfa-tocoferol-200ul-ml-100612",
@@ -4754,7 +4487,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100612\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,58\nPreço por caixa: R$ 27,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100612\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,58\nPreço por caixa: R$ 27,90",
         "code":  "100612",
         "catalogDetails":  [
                                {
@@ -4784,12 +4517,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 27,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-kl-fitomenadiona-10mg-ml-100613",
@@ -4804,7 +4534,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100613\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,06\nPreço por caixa: R$ 25,30\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100613\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,06\nPreço por caixa: R$ 25,30",
         "code":  "100613",
         "catalogDetails":  [
                                {
@@ -4834,12 +4564,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 25,30"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-acelerador-metabolico-100294",
@@ -4854,7 +4581,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100294\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100294\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
         "code":  "100294",
         "catalogDetails":  [
                                {
@@ -4876,12 +4603,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 339,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-dermatox-100877",
@@ -4896,7 +4620,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100877\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100877\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90",
         "code":  "100877",
         "catalogDetails":  [
                                {
@@ -4918,12 +4642,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 399,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-bumbum-turbinado-fase-1-e-2-100251-100252",
@@ -4938,7 +4659,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100251 / 100252\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 12 Frascos\nPreço por caixa: R$ 545,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100251 / 100252\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 12 Frascos\nPreço por caixa: R$ 545,90",
         "code":  "100251 / 100252",
         "catalogDetails":  [
                                {
@@ -4960,12 +4681,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 545,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-booster-age-100123",
@@ -4980,7 +4698,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100123\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100123\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90",
         "code":  "100123",
         "catalogDetails":  [
                                {
@@ -5002,12 +4720,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 399,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-clarybooster-100260",
@@ -5022,7 +4737,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100260\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 369,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100260\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 369,90",
         "code":  "100260",
         "catalogDetails":  [
                                {
@@ -5044,12 +4759,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 369,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-lip-contour-100618",
@@ -5064,7 +4776,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100618\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100618\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90",
         "code":  "100618",
         "catalogDetails":  [
                                {
@@ -5086,12 +4798,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 399,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-desinflax-pqq-5-und-100662",
@@ -5106,7 +4815,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100662\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 5 Frascos\nPreço por caixa: R$ 359,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100662\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 5 Frascos\nPreço por caixa: R$ 359,90",
         "code":  "100662",
         "catalogDetails":  [
                                {
@@ -5128,12 +4837,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 359,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-colagenic-100739-100740",
@@ -5148,7 +4854,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100739 / 100740\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 499,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100739 / 100740\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 499,90",
         "code":  "100739 / 100740",
         "catalogDetails":  [
                                {
@@ -5170,12 +4876,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 499,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-detox-hepatico-100615",
@@ -5190,7 +4893,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100615\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 319,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100615\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 319,90",
         "code":  "100615",
         "catalogDetails":  [
                                {
@@ -5212,12 +4915,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 319,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-emagrecedor-100270",
@@ -5232,7 +4932,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100270\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100270\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
         "code":  "100270",
         "catalogDetails":  [
                                {
@@ -5254,12 +4954,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 339,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-emagrecimento-facial-100258",
@@ -5274,7 +4971,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100258\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 299,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100258\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 299,90",
         "code":  "100258",
         "catalogDetails":  [
                                {
@@ -5296,12 +4993,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 299,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-firm-corp-100255",
@@ -5316,7 +5010,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100255\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100255\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
         "code":  "100255",
         "catalogDetails":  [
                                {
@@ -5338,12 +5032,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 339,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-fort-in-hair-men-100261",
@@ -5358,7 +5049,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100261\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 269,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100261\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 269,90",
         "code":  "100261",
         "catalogDetails":  [
                                {
@@ -5380,12 +5071,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 269,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-fort-in-hair-woman-100262",
@@ -5400,7 +5088,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100262\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 269,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100262\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 269,90",
         "code":  "100262",
         "catalogDetails":  [
                                {
@@ -5422,12 +5110,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 269,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-harmony-fac-c-6-100915",
@@ -5442,7 +5127,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100915\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmon Harmony In•ect Inject Face Face diluente\nApresentação: 2g\nPreço por caixa: R$ 504,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100915\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmon Harmony In•ect Inject Face Face diluente\nApresentação: 2g\nPreço por caixa: R$ 504,00",
         "code":  "100915",
         "catalogDetails":  [
                                {
@@ -5464,12 +5149,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 504,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-harmony-glut-c-6-100916",
@@ -5484,7 +5166,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100916\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmony Harmony Inject Inject Glúteos Glúteos\nApresentação: diluente 2g\nPreço por caixa: R$ 504,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100916\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmony Harmony Inject Inject Glúteos Glúteos\nApresentação: diluente 2g\nPreço por caixa: R$ 504,00",
         "code":  "100916",
         "catalogDetails":  [
                                {
@@ -5506,12 +5188,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 504,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-hipertrofia-muscular-100269",
@@ -5526,7 +5205,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100269\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100269\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
         "code":  "100269",
         "catalogDetails":  [
                                {
@@ -5548,12 +5227,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 339,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-hyaludermis-100744",
@@ -5568,7 +5244,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100744\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 339,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100744\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 339,90",
         "code":  "100744",
         "catalogDetails":  [
                                {
@@ -5590,12 +5266,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 339,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-lipodrain-100863",
@@ -5610,7 +5283,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100863\nEstoque: Não informado na tabela\nVolume: 5 ML 5\nApresentação: Ampolas\nPreço por caixa: R$ 219,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100863\nEstoque: Não informado na tabela\nVolume: 5 ML 5\nApresentação: Ampolas\nPreço por caixa: R$ 219,90",
         "code":  "100863",
         "catalogDetails":  [
                                {
@@ -5632,12 +5305,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 219,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-nct-skin-booster-100253",
@@ -5652,7 +5322,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100253\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 499,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100253\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 499,90",
         "code":  "100253",
         "catalogDetails":  [
                                {
@@ -5674,12 +5344,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 499,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-pdrn-corp-100622",
@@ -5694,7 +5361,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100622\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 677,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100622\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 677,90",
         "code":  "100622",
         "catalogDetails":  [
                                {
@@ -5716,12 +5383,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 677,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-pdrn-system-100254",
@@ -5736,7 +5400,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100254\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 677,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100254\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 677,90",
         "code":  "100254",
         "catalogDetails":  [
                                {
@@ -5758,12 +5422,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 677,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-peso-certo-100855",
@@ -5778,7 +5439,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100855\nEstoque: Não informado na tabela\nVolume: 1 Detox + Hepático 2 Emagrecedor + 4 Redumax + 1 Acelerador Slim Gordura Metabólico\nApresentação: 2 + 8 Morosil\nPreço por caixa: R$ 612,98\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100855\nEstoque: Não informado na tabela\nVolume: 1 Detox + Hepático 2 Emagrecedor + 4 Redumax + 1 Acelerador Slim Gordura Metabólico\nApresentação: 2 + 8 Morosil\nPreço por caixa: R$ 612,98",
         "code":  "100855",
         "catalogDetails":  [
                                {
@@ -5800,12 +5461,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 612,98"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-reducao-de-papada-100259",
@@ -5820,7 +5478,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100259\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 319,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100259\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 319,90",
         "code":  "100259",
         "catalogDetails":  [
                                {
@@ -5842,12 +5500,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 319,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-redumax-slim-celulite-1-100265",
@@ -5862,7 +5517,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100265\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100265\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
         "code":  "100265",
         "catalogDetails":  [
                                {
@@ -5884,12 +5539,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 339,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-redumax-slim-celulite-2-100266",
@@ -5904,7 +5556,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100266\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100266\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
         "code":  "100266",
         "catalogDetails":  [
                                {
@@ -5926,12 +5578,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 339,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-redumax-slim-gordura-localizada-1-100263",
@@ -5946,7 +5595,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100263\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 329,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100263\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 329,90",
         "code":  "100263",
         "catalogDetails":  [
                                {
@@ -5968,12 +5617,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 329,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-redumax-slim-gordura-localizada-2-100264",
@@ -5988,7 +5634,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100264\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 329,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100264\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 329,90",
         "code":  "100264",
         "catalogDetails":  [
                                {
@@ -6010,12 +5656,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 329,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-stril-duo-repair-estrias-brancas-100268",
@@ -6030,7 +5673,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100268\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 349,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100268\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 349,90",
         "code":  "100268",
         "catalogDetails":  [
                                {
@@ -6052,12 +5695,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 349,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-stril-duo-repair-estrias-vermelhas-100267",
@@ -6072,7 +5712,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100267\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 349,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100267\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 349,90",
         "code":  "100267",
         "catalogDetails":  [
                                {
@@ -6094,12 +5734,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 349,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vasoless-100623",
@@ -6114,7 +5751,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100623\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 90,00\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100623\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 90,00",
         "code":  "100623",
         "catalogDetails":  [
                                {
@@ -6136,12 +5773,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 90,00"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-uau-skin-100892",
@@ -6156,7 +5790,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100892\nEstoque: Não informado na tabela\nVolume: 1 Frasco NCT + 1 Skin Frasco Booster PDRN + System 1 Frasco\nApresentação: Hyalumax\nPreço por caixa: R$ 399,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100892\nEstoque: Não informado na tabela\nVolume: 1 Frasco NCT + 1 Skin Frasco Booster PDRN + System 1 Frasco\nApresentação: Hyalumax\nPreço por caixa: R$ 399,90",
         "code":  "100892",
         "catalogDetails":  [
                                {
@@ -6178,12 +5812,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 399,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-ultra-power-redux-gordura-power-100862",
@@ -6198,7 +5829,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100862\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 249,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100862\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 249,90",
         "code":  "100862",
         "catalogDetails":  [
                                {
@@ -6220,12 +5851,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 249,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-fibrocell-100861",
@@ -6240,7 +5868,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100861\nEstoque: Não informado na tabela\nVolume: 6 frascos redutores de celulite + 6 unidades Hyluronidase\nApresentação: 2.000 UTR\nPreço por caixa: R$ 399,80\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100861\nEstoque: Não informado na tabela\nVolume: 6 frascos redutores de celulite + 6 unidades Hyluronidase\nApresentação: 2.000 UTR\nPreço por caixa: R$ 399,80",
         "code":  "100861",
         "catalogDetails":  [
                                {
@@ -6262,12 +5890,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 399,80"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-protocolo-abdomen-ultra-5d-100624",
@@ -6282,7 +5907,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100624\nEstoque: Não informado na tabela\nVolume: 1 Acelerador + 3 FIRM corp Metabólico + 1 COLAGENOL + 3 Emagrecedores FASE 1 + 7 + Diluentes 1\nApresentação: Hipertrofia Funcionais Muscular\nPreço por caixa: R$ 679,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100624\nEstoque: Não informado na tabela\nVolume: 1 Acelerador + 3 FIRM corp Metabólico + 1 COLAGENOL + 3 Emagrecedores FASE 1 + 7 + Diluentes 1\nApresentação: Hipertrofia Funcionais Muscular\nPreço por caixa: R$ 679,90",
         "code":  "100624",
         "catalogDetails":  [
                                {
@@ -6304,12 +5929,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 679,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-clarybooster-nutraceuticals-100625",
@@ -6324,7 +5946,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100625\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100625\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90",
         "code":  "100625",
         "catalogDetails":  [
                                {
@@ -6342,12 +5964,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 159,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-drenofin-nutraceuticals-100737",
@@ -6362,7 +5981,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100737\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 129,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100737\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 129,90",
         "code":  "100737",
         "catalogDetails":  [
                                {
@@ -6380,12 +5999,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 129,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-botulox-nutraceuticals-100617",
@@ -6400,7 +6016,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100617\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 139,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100617\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 139,90",
         "code":  "100617",
         "catalogDetails":  [
                                {
@@ -6418,12 +6034,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 139,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-emagrecedor-nutraceuticals-100626",
@@ -6438,7 +6051,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100626\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100626\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90",
         "code":  "100626",
         "catalogDetails":  [
                                {
@@ -6456,12 +6069,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 159,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-fort-in-hair-nutraceuticals-100736",
@@ -6476,7 +6086,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100736\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100736\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90",
         "code":  "100736",
         "catalogDetails":  [
                                {
@@ -6494,12 +6104,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 159,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-hipertreino-nutraceuticals-100874",
@@ -6514,7 +6121,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100874\nEstoque: Não informado na tabela\nConteúdo: 120 cápsulas\nPreço unitário: R$ 139,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100874\nEstoque: Não informado na tabela\nConteúdo: 120 cápsulas\nPreço unitário: R$ 139,90",
         "code":  "100874",
         "catalogDetails":  [
                                {
@@ -6532,12 +6139,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 139,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-redumax-slim-celulite-nutraceuticals-100812",
@@ -6552,7 +6156,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100812\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100812\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 159,90",
         "code":  "100812",
         "catalogDetails":  [
                                {
@@ -6570,12 +6174,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 159,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-testo-nutraceuticals-100875",
@@ -6590,7 +6191,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100875\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 179,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100875\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 179,90",
         "code":  "100875",
         "catalogDetails":  [
                                {
@@ -6608,12 +6209,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 179,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-zeroestuf-nutraceuticals-100873",
@@ -6628,7 +6226,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100873\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 149,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 100873\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 149,90",
         "code":  "100873",
         "catalogDetails":  [
                                {
@@ -6646,12 +6244,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 149,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-creatina-gummy-c-60-unid-121214",
@@ -6666,7 +6261,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço unitário",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 121214\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 189,90\nFonte: Tabela COSMOPHARMA para médicos · 2026",
+        "description":  "Código: 121214\nEstoque: Não informado na tabela\nConteúdo: 60 cápsulas\nPreço unitário: R$ 189,90",
         "code":  "121214",
         "catalogDetails":  [
                                {
@@ -6684,12 +6279,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 189,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA para médicos · 2026"
                                }
-                           ]
+                           ],
+        "priceBasis":  "unit"
     },
     {
         "id":  "cosmo-phenibut-12-5mg-ml-25mg-100884",
@@ -6704,7 +6296,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100884\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78\nPreço por caixa: R$ 43,90\nFonte: Tabela COSMOPHARMA Total",
+        "description":  "Código: 100884\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78\nPreço por caixa: R$ 43,90",
         "code":  "100884",
         "catalogDetails":  [
                                {
@@ -6738,12 +6330,9 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 43,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA Total"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     },
     {
         "id":  "cosmo-vitamina-k2-mk7-menaqulnona-7-1300mcg-ml-100614",
@@ -6758,7 +6347,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100614\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,98\nPreço por caixa: R$ 129,90\nFonte: Tabela COSMOPHARMA Total",
+        "description":  "Código: 100614\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,98\nPreço por caixa: R$ 129,90",
         "code":  "100614",
         "catalogDetails":  [
                                {
@@ -6788,11 +6377,8 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço por caixa",
                                    "value":  "R$ 129,90"
-                               },
-                               {
-                                   "label":  "Fonte",
-                                   "value":  "Tabela COSMOPHARMA Total"
                                }
-                           ]
+                           ],
+        "priceBasis":  "box"
     }
 ];
