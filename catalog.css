@@ -1,0 +1,23 @@
+.product-detail .detail-copy p {
+  white-space: pre-line;
+  line-height: 1.8;
+}
+
+.product-card .quick-add .button:disabled {
+  color: #625d54;
+  background: #e6e1d7;
+  cursor: not-allowed;
+}
+
+.product-detail:has(.detail-image img[src="catalog-placeholder.svg"]) .product-rating,
+.product-detail:has(.detail-image img[src="catalog-placeholder.svg"]) .detail-notes,
+.product-detail:has(.detail-image img[src="catalog-placeholder.svg"]) .detail-copy > small,
+.product-detail:has(.detail-image img[src="catalog-placeholder.svg"]) .detail-actions [data-action="add"],
+.product-detail:has(.detail-image img[src="catalog-placeholder.svg"]) + .section-tight {
+  display: none;
+}
+
+.product-detail:has(.detail-image img[src="catalog-placeholder.svg"]) .detail-options .quantity-control {
+  display: none;
+}
+

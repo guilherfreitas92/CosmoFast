@@ -30,12 +30,22 @@ const money = value => new Intl.NumberFormat('pt-BR', { style: 'currency', curre
 const read = (key, fallback) => { try { const value = localStorage.getItem(`mb_${key}`); return value ? JSON.parse(value) : fallback; } catch { return fallback; } };
 const write = (key, value) => { try { localStorage.setItem(`mb_${key}`, JSON.stringify(value)); } catch {} };
 categories = read('categories', categories);
+const catalogCategories = [
+  { name: 'Injetáveis', slug: 'injetaveis', sub: 'Tabela técnica Cosmopharma', image: 'photo-1556229010-6c3f2c9ca5f8' },
+  { name: 'Protocolos', slug: 'protocolos', sub: 'Protocolos do catálogo', image: 'photo-1611930022073-b7a4ba5fcccd' },
+  { name: 'Nutracêuticos', slug: 'nutraceuticos', sub: 'Linha nutracêutica', image: 'photo-1608571423902-eed4a5ad8108' }
+];
+let categoriesChanged = false;
+for (const category of catalogCategories) {
+  if (!categories.some(item => item.slug === category.slug)) { categories.push(category); categoriesChanged = true; }
+}
+if (categoriesChanged) write('categories', categories);
 let customBrands = read('brands', []);
 let cart = read('cart', []), favorites = read('favorites', []), orders = read('orders', seedOrders);
 let customProducts = read('products', []), expenses = read('expenses', []), banners = read('banners', []), reviews = read('reviews', {});
 let settings = read('settings', { primary: '#44553e', secondary: '#dce4cf', button: '#44553e', background: '#f6f5f0', logo: 'Maison Botanique', font: 'Manrope', favicon: 'favicon.svg' });
 let catalogFilters = { category: '', brand: '', onlySale: false, sort: 'featured', search: '' }, detailQty = 1, searchOpen = false;
-const allProducts = () => [...new Map([...products, ...customProducts].map(product => [product.id, product])).values()];
+const allProducts = () => [...new Map([...(window.COSMOPHARMA_PRODUCTS || []), ...products, ...customProducts].map(product => [product.id, product])).values()];
 const productById = id => allProducts().find(item => item.id === id);
 const findProduct = slug => allProducts().find(item => item.slug === slug || item.id === slug);
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
@@ -55,12 +65,16 @@ const icon = name => {
 const route = () => decodeURIComponent(location.hash.slice(1) || '/').replace(/\/$/, '') || '/';
 const go = path => { location.hash = path; };
 const toast = message => { const node = document.querySelector('#toast'); if (!node) return; node.textContent = message; node.classList.add('is-visible'); clearTimeout(window.toastTimer); window.toastTimer = setTimeout(() => node.classList.remove('is-visible'), 2600); };
-const getImage = (product, width = 800) => escapeHTML(product.image?.startsWith('https://') ? product.image : photo(product.image, width));
+const getImage = (product, width = 800) => escapeHTML(product.image?.startsWith('https://') ? product.image : product.catalogDetails ? 'catalog-placeholder.svg' : photo(product.image, width));
 const isFav = id => favorites.includes(id);
 function productCard(product) {
   const badgeClass = product.oldPrice ? 'sale' : '';
   const discount = product.oldPrice ? Math.round((1 - product.price / product.oldPrice) * 100) : 0;
-  return `<article class="product-card animate-in"><div class="product-image"><a href="#/produto/${encodeURIComponent(product.slug)}" aria-label="Ver ${escapeHTML(product.name)}"><img loading="lazy" src="${getImage(product, 640)}" alt="${escapeHTML(product.name)}"></a>${product.badge ? `<span class="product-badge ${badgeClass}">${escapeHTML(product.badge)}</span>` : ''}<button class="favorite-button ${isFav(product.id) ? 'is-active' : ''}" data-action="favorite" data-id="${escapeHTML(product.id)}" aria-label="${isFav(product.id) ? 'Remover dos' : 'Adicionar aos'} favoritos">${icon('heart')}</button><div class="quick-add"><button class="button" data-action="add" data-id="${escapeHTML(product.id)}">Adicionar à sacola · ${money(product.price)}</button></div></div><div class="product-meta"><div class="product-brand">${escapeHTML(product.brand)}</div><a class="product-name" href="#/produto/${encodeURIComponent(product.slug)}">${escapeHTML(product.name)}</a><div class="product-rating">★ ★ ★ ★ ★ <span>${escapeHTML(product.rating)} (${product.reviews})</span></div><div class="product-price">${money(product.price)}${product.oldPrice ? `<span class="old-price">${money(product.oldPrice)}</span><span class="discount-note">-${discount}%</span>` : ''}</div></div></article>`;
+  const rating = product.rating ? `<div class="product-rating">★ ★ ★ ★ ★ <span>${escapeHTML(product.rating)} (${product.reviews})</span></div>` : '';
+  const quickAdd = product.catalogDetails && !product.stock
+    ? '<button class="button" disabled>Estoque não informado</button>'
+    : `<button class="button" data-action="add" data-id="${escapeHTML(product.id)}">Adicionar à sacola · ${money(product.price)}</button>`;
+  return `<article class="product-card animate-in"><div class="product-image"><a href="#/produto/${encodeURIComponent(product.slug)}" aria-label="Ver ${escapeHTML(product.name)}"><img loading="lazy" src="${getImage(product, 640)}" alt="${escapeHTML(product.name)}"></a>${product.badge ? `<span class="product-badge ${badgeClass}">${escapeHTML(product.badge)}</span>` : ''}<button class="favorite-button ${isFav(product.id) ? 'is-active' : ''}" data-action="favorite" data-id="${escapeHTML(product.id)}" aria-label="${isFav(product.id) ? 'Remover dos' : 'Adicionar aos'} favoritos">${icon('heart')}</button><div class="quick-add">${quickAdd}</div></div><div class="product-meta"><div class="product-brand">${escapeHTML(product.brand)}</div><a class="product-name" href="#/produto/${encodeURIComponent(product.slug)}">${escapeHTML(product.name)}</a>${rating}<div class="product-price">${money(product.price)}${product.oldPrice ? `<span class="old-price">${money(product.oldPrice)}</span><span class="discount-note">-${discount}%</span>` : ''}</div></div></article>`;
 }
 function header() {
   const count = cart.reduce((total, line) => total + line.qty, 0);
@@ -101,6 +115,11 @@ function productPage(product) {
   const reviewList = reviews[product.id] || [];
   return `${pageBanner('Ritual de cuidado', product.category, 'Produtos')}<main class="page-width"><section class="product-detail"><div class="detail-image"><img src="${getImage(product, 1200)}" alt="${escapeHTML(product.name)}"></div><div class="detail-copy"><div class="product-brand">${escapeHTML(product.brand)}</div><h1>${escapeHTML(product.name)}</h1><div class="product-rating">★ ★ ★ ★ ★ <span>${product.rating} · ${product.reviews + reviewList.length} avaliações</span></div><div class="detail-price">${money(product.price)} ${product.oldPrice ? `<span class="old-price">${money(product.oldPrice)}</span>` : ''}</div><small style="color:var(--muted)">ou 3x de ${money(product.price / 3)} sem juros</small><p>${escapeHTML(product.description)}</p><div class="detail-options"><div class="quantity-control"><button data-action="detail-qty" data-delta="-1" aria-label="Diminuir">−</button><span id="detail-qty">${detailQty}</span><button data-action="detail-qty" data-delta="1" aria-label="Aumentar">+</button></div><span style="font-size:10px;color:var(--muted)">${product.stock > 0 ? `${product.stock} unidades disponíveis` : 'Avise-me quando voltar'}</span></div><div class="detail-actions"><button class="button" data-action="add" data-id="${escapeHTML(product.id)}" data-qty="detail">Adicionar à sacola · ${money(product.price * detailQty)}</button><button class="favorite-button ${isFav(product.id) ? 'is-active' : ''}" style="position:static;width:46px;height:46px;border:1px solid var(--line)" data-action="favorite" data-id="${escapeHTML(product.id)}" aria-label="Favoritar">${icon('heart')}</button></div><div class="detail-notes"><span class="detail-note">Fórmula consciente</span><span class="detail-note">Envio cuidadoso</span><span class="detail-note">Compra segura</span></div></div></section><section class="section-tight"><div class="section-heading"><div><span class="eyebrow">Quem experimentou</span><h2>Uma pele, muitas histórias</h2></div></div><div class="review-strip"><article class="review-quote"><div class="review-stars">★★★★★</div><blockquote>“Textura deliciosa e resultado que aparece com consistência.”</blockquote><div class="review-person">Paula R. · Compra verificada</div></article>${reviewList.map(review => `<article class="review-quote"><div class="review-stars">${'★'.repeat(review.rating)}${'☆'.repeat(5 - review.rating)}</div><blockquote>“${escapeHTML(review.text)}”</blockquote><div class="review-person">${escapeHTML(review.name)} · Compra verificada</div></article>`).join('')}</div><form class="form-grid" data-form="review" style="margin-top:24px"><div class="field"><label for="review-name">Seu nome</label><input id="review-name" name="name" required></div><div class="field"><label for="review-rating">Sua nota</label><select id="review-rating" name="rating"><option value="5">5 estrelas</option><option value="4">4 estrelas</option><option value="3">3 estrelas</option></select></div><div class="field full"><label for="review-text">Conte sua experiência</label><textarea id="review-text" name="text" required></textarea></div><input type="hidden" name="productId" value="${escapeHTML(product.id)}"><div class="field full"><button class="button button-light" type="submit">Enviar avaliação</button></div></form></section></main>`;
 }
+const originalProductPage = productPage;
+productPage = product => {
+  const markup = originalProductPage(product);
+  return product?.catalogDetails ? markup.replace('Avise-me quando voltar', 'Estoque não informado na tabela') : markup;
+};
 function cartLines() { return cart.map(line => ({ ...line, product: productById(line.id) })).filter(line => line.product); }
 function cartPage() {
   const lines = cartLines();
@@ -330,7 +349,7 @@ document.addEventListener('submit', event => {
   }
   if (type === 'product') {
     const id = form.dataset.id || `custom-${Date.now()}`, existing = productById(id);
-    const product = { id, slug: id, name: data.name, brand: data.brand, category: data.category, price: Number(data.price), oldPrice: null, rating: '5.0', reviews: 0, badge: 'Novo', stock: Number(data.stock), image: data.image || existing?.image || 'photo-1556229010-6c3f2c9ca5f8', description: data.description || 'Produto cadastrado pela administração.' };
+    const product = { ...existing, id, slug: existing?.slug || id, name: data.name, brand: data.brand, category: data.category, price: Number(data.price), oldPrice: existing?.oldPrice ?? null, rating: existing?.catalogDetails ? existing.rating : '5.0', reviews: existing?.reviews ?? 0, badge: existing?.badge || 'Novo', stock: Number(data.stock), image: data.image || existing?.image || (existing?.catalogDetails ? '' : 'photo-1556229010-6c3f2c9ca5f8'), description: data.description || existing?.description || 'Produto cadastrado pela administração.' };
     customProducts = customProducts.filter(item => item.id !== id); customProducts.unshift(product); write('products', customProducts); document.querySelector('.modal-backdrop')?.remove(); render(); toast('Produto salvo no catálogo local');
   }
   if (type === 'taxonomy') {
