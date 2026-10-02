@@ -65,7 +65,24 @@ const icon = name => {
 const route = () => decodeURIComponent(location.hash.slice(1) || '/').replace(/\/$/, '') || '/';
 const go = path => { location.hash = path; };
 const toast = message => { const node = document.querySelector('#toast'); if (!node) return; node.textContent = message; node.classList.add('is-visible'); clearTimeout(window.toastTimer); window.toastTimer = setTimeout(() => node.classList.remove('is-visible'), 2600); };
-const getImage = (product, width = 800) => escapeHTML(product.image?.startsWith('https://') ? product.image : product.catalogDetails ? 'catalog-placeholder.svg' : photo(product.image, width));
+const isLocalProductImage = image => /^data:image\/(?:webp|jpeg|png);base64,/i.test(image || '');
+const getImage = (product, width = 800) => escapeHTML(product.image?.startsWith('https://') || isLocalProductImage(product.image) ? product.image : product.catalogDetails ? 'catalog-placeholder.svg' : photo(product.image, width));
+async function compressProductImage(file) {
+  if (!/^image\/(?:jpeg|png|webp|avif)$/.test(file.type)) throw new Error('Escolha uma imagem JPG, PNG, WebP ou AVIF.');
+  if (file.size > 12 * 1024 * 1024) throw new Error('A imagem deve ter até 12 MB.');
+  const source = await createImageBitmap(file);
+  const scale = Math.min(1, 1200 / Math.max(source.width, source.height));
+  const canvas = document.createElement('canvas');
+  canvas.width = Math.round(source.width * scale);
+  canvas.height = Math.round(source.height * scale);
+  const context = canvas.getContext('2d');
+  if (!context) { source.close(); throw new Error('Não foi possível processar esta imagem.'); }
+  context.drawImage(source, 0, 0, canvas.width, canvas.height);
+  source.close();
+  const image = canvas.toDataURL('image/webp', 0.82);
+  if (image.length > 900_000) throw new Error('A imagem comprimida ficou grande demais. Escolha uma imagem menor.');
+  return image;
+}
 const isFav = id => favorites.includes(id);
 function productCard(product) {
   const badgeClass = product.oldPrice ? 'sale' : '';
@@ -275,7 +292,7 @@ function openModal(type, id = '') {
   if (type === 'product') {
     const product = id ? productById(id) : {};
     title = id ? 'Editar produto' : 'Novo produto';
-      form = `<form data-form="product" data-id="${escapeHTML(id)}"><div class="form-grid"><div class="field full"><label>Nome do produto</label><input name="name" value="${escapeHTML(product?.name || '')}" required></div><div class="field"><label>Marca</label><input name="brand" value="${escapeHTML(product?.brand || 'Maison Botanique')}" required></div><div class="field"><label>Categoria</label><select name="category">${categories.map(c => `<option ${product?.category === c.name ? 'selected' : ''}>${escapeHTML(c.name)}</option>`).join('')}</select></div><div class="field"><label>Preço (R$)</label><input name="price" type="number" min="1" step="0.01" value="${product?.price || ''}" required></div><div class="field"><label>Estoque</label><input name="stock" type="number" min="0" value="${product?.stock ?? 0}" required></div><div class="field full"><label>URL da imagem</label><input type="url" name="image" value="${product?.image?.startsWith('https://') ? escapeHTML(product.image) : ''}" placeholder="https://..."></div><div class="field full"><label>Descrição</label><textarea name="description">${escapeHTML(product?.description || '')}</textarea></div></div><button class="button" style="margin-top:17px" type="submit">Salvar produto</button></form>`;
+      form = `<form data-form="product" data-id="${escapeHTML(id)}"><div class="form-grid"><div class="field full"><label>Nome do produto</label><input name="name" value="${escapeHTML(product?.name || '')}" required></div><div class="field"><label>Marca</label><input name="brand" value="${escapeHTML(product?.brand || 'Maison Botanique')}" required></div><div class="field"><label>Categoria</label><select name="category">${categories.map(c => `<option ${product?.category === c.name ? 'selected' : ''}>${escapeHTML(c.name)}</option>`).join('')}</select></div><div class="field"><label>Preço (R$)</label><input name="price" type="number" min="1" step="0.01" value="${product?.price || ''}" required></div><div class="field"><label>Estoque</label><input name="stock" type="number" min="0" value="${product?.stock ?? 0}" required></div><div class="field full"><label>URL da imagem</label><input type="url" name="image" value="${product?.image?.startsWith('https://') ? escapeHTML(product.image) : ''}" placeholder="https://..."></div><div class="field full"><label for="product-image-file">Imagem deste dispositivo</label><input id="product-image-file" type="file" name="imageFile" accept="image/jpeg,image/png,image/webp,image/avif"><small>JPG, PNG, WebP ou AVIF · máximo de 12 MB. A imagem é comprimida e salva neste navegador.</small><div class="local-image-preview" data-image-preview>${product?.image ? `<img src="${getImage(product)}" alt="Prévia da imagem do produto"><span>Imagem atual</span>` : ''}</div></div><div class="field full"><label>Descrição</label><textarea name="description">${escapeHTML(product?.description || '')}</textarea></div></div><button class="button" style="margin-top:17px" type="submit">Salvar produto</button></form>`;
   } else if (type === 'taxonomy') {
     title = id === 'category' ? 'Nova categoria' : 'Nova marca';
     form = `<form data-form="taxonomy" data-kind="${id}"><div class="field"><label>${id === 'category' ? 'Nome da categoria' : 'Nome da marca'}</label><input name="name" required></div><button class="button" style="margin-top:17px" type="submit">Salvar</button></form>`;
@@ -332,7 +349,23 @@ document.addEventListener('input', event => {
   if (event.target.matches('[data-admin-search]')) { const query = event.target.value.toLowerCase(); document.querySelectorAll('tbody tr').forEach(row => { row.hidden = !row.textContent.toLowerCase().includes(query); }); }
   if (event.target.matches('input[type="color"]')) { const code = event.target.parentElement.querySelector('code'); if (code) code.textContent = event.target.value; }
 });
-document.addEventListener('submit', event => {
+document.addEventListener('change', event => {
+  const input = event.target.closest('input[name="imageFile"]');
+  if (!input) return;
+  const file = input.files?.[0], preview = input.form.querySelector('[data-image-preview]');
+  if (!file || !preview) return;
+  if (!/^image\/(?:jpeg|png|webp|avif)$/.test(file.type) || file.size > 12 * 1024 * 1024) {
+    input.value = '';
+    toast(file.size > 12 * 1024 * 1024 ? 'A imagem deve ter até 12 MB' : 'Escolha uma imagem JPG, PNG, WebP ou AVIF');
+    return;
+  }
+  const imageUrl = URL.createObjectURL(file), image = document.createElement('img'), label = document.createElement('span');
+  image.src = imageUrl; image.alt = 'Prévia da imagem selecionada';
+  image.addEventListener('load', () => URL.revokeObjectURL(imageUrl), { once: true });
+  label.textContent = file.name;
+  preview.replaceChildren(image, label);
+});
+document.addEventListener('submit', async event => {
   const form = event.target.closest('form[data-form]'); if (!form) return;
   event.preventDefault(); const data = formObject(form), type = form.dataset.form;
   if (type === 'search') { catalogFilters.search = data.q.trim(); if (route() === '/produtos') render(); else go('/produtos'); }
@@ -349,7 +382,15 @@ document.addEventListener('submit', event => {
   }
   if (type === 'product') {
     const id = form.dataset.id || `custom-${Date.now()}`, existing = productById(id);
-    const product = { ...existing, id, slug: existing?.slug || id, name: data.name, brand: data.brand, category: data.category, price: Number(data.price), oldPrice: existing?.oldPrice ?? null, rating: existing?.catalogDetails ? existing.rating : '5.0', reviews: existing?.reviews ?? 0, badge: existing?.badge || 'Novo', stock: Number(data.stock), image: data.image || existing?.image || (existing?.catalogDetails ? '' : 'photo-1556229010-6c3f2c9ca5f8'), description: data.description || existing?.description || 'Produto cadastrado pela administração.' };
+    let image = data.image || existing?.image || (existing?.catalogDetails ? '' : 'photo-1556229010-6c3f2c9ca5f8');
+    const imageFile = form.elements.imageFile.files?.[0];
+    if (imageFile) {
+      try { image = await compressProductImage(imageFile); }
+      catch (error) { toast(error.message || 'Não foi possível salvar a imagem.'); return; }
+    }
+    const product = { ...existing, id, slug: existing?.slug || id, name: data.name, brand: data.brand, category: data.category, price: Number(data.price), oldPrice: existing?.oldPrice ?? null, rating: existing?.catalogDetails ? existing.rating : '5.0', reviews: existing?.reviews ?? 0, badge: existing?.badge || 'Novo', stock: Number(data.stock), image, description: data.description || existing?.description || 'Produto cadastrado pela administração.' };
+    const localImageBytes = [...customProducts.filter(item => item.id !== id), product].reduce((total, item) => total + (isLocalProductImage(item.image) ? item.image.length : 0), 0);
+    if (localImageBytes > 3_500_000) { toast('O limite de imagens locais deste navegador foi atingido.'); return; }
     customProducts = customProducts.filter(item => item.id !== id); customProducts.unshift(product); write('products', customProducts); document.querySelector('.modal-backdrop')?.remove(); render(); toast('Produto salvo no catálogo local');
   }
   if (type === 'taxonomy') {

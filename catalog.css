@@ -21,3 +21,23 @@
   display: none;
 }
 
+.local-image-preview:empty {
+  display: none;
+}
+
+.local-image-preview {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.local-image-preview img {
+  width: 72px;
+  height: 72px;
+  border: 1px solid var(--line);
+  object-fit: cover;
+}
+
