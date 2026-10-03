@@ -12,7 +12,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100549\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,08\nPreço por caixa: R$ 25,41",
+        "description":  "Código: 100549\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,08",
         "code":  "100549",
         "catalogDetails":  [
                                {
@@ -42,12 +42,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,08"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 25,41"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -63,7 +58,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100550\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90",
+        "description":  "Código: 100550\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98",
         "code":  "100550",
         "catalogDetails":  [
                                {
@@ -93,12 +88,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 24,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -114,7 +104,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100551\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,24\nPreço por caixa: R$ 46,20",
+        "description":  "Código: 100551\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,24",
         "code":  "100551",
         "catalogDetails":  [
                                {
@@ -144,12 +134,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 9,24"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 46,20"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -165,7 +150,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100552\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 42,00\nPreço por caixa: R$ 210,00",
+        "description":  "Código: 100552\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 42,00",
         "code":  "100552",
         "catalogDetails":  [
                                {
@@ -191,12 +176,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 42,00"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 210,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -212,7 +192,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100698\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,00\nPreço por caixa: R$ 45,00",
+        "description":  "Código: 100698\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,00",
         "code":  "100698",
         "catalogDetails":  [
                                {
@@ -242,12 +222,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 9,00"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 45,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -263,7 +238,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100878\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 2,50\nPreço por caixa: R$ 12,50",
+        "description":  "Código: 100878\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 2,50",
         "code":  "100878",
         "catalogDetails":  [
                                {
@@ -293,12 +268,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 2,50"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 12,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -314,7 +284,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100690\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,18\nPreço por caixa: R$ 20,90",
+        "description":  "Código: 100690\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,18",
         "code":  "100690",
         "catalogDetails":  [
                                {
@@ -344,12 +314,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 20,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -365,7 +330,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100887\nEstoque: Não informado na tabela\nVolume: 5ML\nPreço unitário: 43,98\nPreço por caixa: R$ 219,90",
+        "description":  "Código: 100887\nEstoque: Não informado na tabela\nVolume: 5ML\nPreço unitário: 43,98",
         "code":  "100887",
         "catalogDetails":  [
                                {
@@ -383,12 +348,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "43,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 219,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -404,7 +364,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100886\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 25,90\nPreço por caixa: R$ 129,50",
+        "description":  "Código: 100886\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 25,90",
         "code":  "100886",
         "catalogDetails":  [
                                {
@@ -434,12 +394,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 25,90"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 129,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -455,7 +410,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100553\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 19,00\nPreço por caixa: R$ 95,00",
+        "description":  "Código: 100553\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 19,00",
         "code":  "100553",
         "catalogDetails":  [
                                {
@@ -481,12 +436,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 19,00"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 95,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -502,7 +452,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100696\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,18\nPreço por caixa: R$ 30,90",
+        "description":  "Código: 100696\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,18",
         "code":  "100696",
         "catalogDetails":  [
                                {
@@ -532,12 +482,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 6,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 30,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -553,7 +498,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100695\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,22\nPreço por caixa: R$ 26,13",
+        "description":  "Código: 100695\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,22",
         "code":  "100695",
         "catalogDetails":  [
                                {
@@ -583,12 +528,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,22"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 26,13"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -604,7 +544,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100554\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,02\nPreço por caixa: R$ 25,10",
+        "description":  "Código: 100554\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,02",
         "code":  "100554",
         "catalogDetails":  [
                                {
@@ -630,12 +570,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,02"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 25,10"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -651,7 +586,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100555\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,15\nPreço por caixa: R$ 20,79",
+        "description":  "Código: 100555\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,15",
         "code":  "100555",
         "catalogDetails":  [
                                {
@@ -681,12 +616,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,15"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 20,79"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -702,7 +632,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100556\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90",
+        "description":  "Código: 100556\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: 4,38",
         "code":  "100556",
         "catalogDetails":  [
                                {
@@ -732,12 +662,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,38"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 21 ,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -753,7 +678,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100557\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,19\nPreço por caixa: R$ 40,98",
+        "description":  "Código: 100557\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,19",
         "code":  "100557",
         "catalogDetails":  [
                                {
@@ -783,12 +708,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 8,19"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 40,98"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -804,7 +724,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100558\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWSC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,59\nPreço por caixa: R$ 37,95",
+        "description":  "Código: 100558\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWSC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,59",
         "code":  "100558",
         "catalogDetails":  [
                                {
@@ -834,12 +754,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 7,59"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 37,95"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -855,7 +770,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100559\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90",
+        "description":  "Código: 100559\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18",
         "code":  "100559",
         "catalogDetails":  [
                                {
@@ -885,12 +800,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 25,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -906,7 +816,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100616\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWEV/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,10\nPreço por caixa: R$ 45,50",
+        "description":  "Código: 100616\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IWEV/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,10",
         "code":  "100616",
         "catalogDetails":  [
                                {
@@ -936,12 +846,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 9,10"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 45,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -957,7 +862,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100560\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,94\nPreço por caixa: R$ 44,70",
+        "description":  "Código: 100560\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,94",
         "code":  "100560",
         "catalogDetails":  [
                                {
@@ -983,12 +888,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 8,94"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 44,70"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1004,7 +904,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100691\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,70\nPreço por caixa: R$ 28,50",
+        "description":  "Código: 100691\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,70",
         "code":  "100691",
         "catalogDetails":  [
                                {
@@ -1034,12 +934,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,70"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 28,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1055,7 +950,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100561\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,58\nPreço por caixa: R$ 22,90",
+        "description":  "Código: 100561\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,58",
         "code":  "100561",
         "catalogDetails":  [
                                {
@@ -1085,12 +980,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 22,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1106,7 +996,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100621\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90",
+        "description":  "Código: 100621\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98",
         "code":  "100621",
         "catalogDetails":  [
                                {
@@ -1136,12 +1026,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 24,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1157,7 +1042,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100694\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78\nPreço por caixa: R$ 43,90",
+        "description":  "Código: 100694\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78",
         "code":  "100694",
         "catalogDetails":  [
                                {
@@ -1187,12 +1072,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 8,78"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 43,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1208,7 +1088,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100562\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 22,58\nPreço por caixa: R$ 112,90",
+        "description":  "Código: 100562\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 22,58",
         "code":  "100562",
         "catalogDetails":  [
                                {
@@ -1238,12 +1118,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 22,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 112,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1259,7 +1134,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100563\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 23,98\nPreço por caixa: R$ 119,90",
+        "description":  "Código: 100563\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: ID/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 23,98",
         "code":  "100563",
         "catalogDetails":  [
                                {
@@ -1289,12 +1164,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 23,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 119,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1310,7 +1180,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 00627D\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10\nPreço por caixa: R$ 0,50",
+        "description":  "Código: 00627D\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10",
         "code":  "00627D",
         "catalogDetails":  [
                                {
@@ -1340,12 +1210,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 0,10"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 0,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1361,7 +1226,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100693\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,50\nPreço por caixa: R$ 27,50",
+        "description":  "Código: 100693\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,50",
         "code":  "100693",
         "catalogDetails":  [
                                {
@@ -1391,12 +1256,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,50"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 27,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1412,7 +1272,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100564\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90",
+        "description":  "Código: 100564\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18",
         "code":  "100564",
         "catalogDetails":  [
                                {
@@ -1442,12 +1302,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 25,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1463,7 +1318,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100883\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,40\nPreço por caixa: R$ 42,00",
+        "description":  "Código: 100883\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,40",
         "code":  "100883",
         "catalogDetails":  [
                                {
@@ -1493,12 +1348,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 8,40"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 42,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1514,7 +1364,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100619\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,58\nPreço por caixa: R$ 42,90",
+        "description":  "Código: 100619\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,58",
         "code":  "100619",
         "catalogDetails":  [
                                {
@@ -1544,12 +1394,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 8,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 42,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1565,7 +1410,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100565\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,84\nPreço por caixa: R$ 24,20",
+        "description":  "Código: 100565\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,84",
         "code":  "100565",
         "catalogDetails":  [
                                {
@@ -1595,12 +1440,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,84"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 24,20"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1616,7 +1456,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100566\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,17\nPreço por caixa: R$ 50,88",
+        "description":  "Código: 100566\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,17",
         "code":  "100566",
         "catalogDetails":  [
                                {
@@ -1646,12 +1486,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 10,17"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 50,88"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1667,7 +1502,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100567\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC\nApresentação: 5 AMP\nPreço unitário: R$ 5,98\nPreço por caixa: R$ 29,90",
+        "description":  "Código: 100567\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC\nApresentação: 5 AMP\nPreço unitário: R$ 5,98",
         "code":  "100567",
         "catalogDetails":  [
                                {
@@ -1693,12 +1528,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 29,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1714,7 +1544,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100568\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/SC/ID\nApresentação: 5 AMP\nPreço unitário: R$ 9,38\nPreço por caixa: R$ 46,90",
+        "description":  "Código: 100568\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/SC/ID\nApresentação: 5 AMP\nPreço unitário: R$ 9,38",
         "code":  "100568",
         "catalogDetails":  [
                                {
@@ -1740,12 +1570,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 9,38"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 46,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1761,7 +1586,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100569\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 3,98\nPreço por caixa: R$ 19,90",
+        "description":  "Código: 100569\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 3,98",
         "code":  "100569",
         "catalogDetails":  [
                                {
@@ -1791,12 +1616,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 3,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 19,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1812,7 +1632,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100570\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,30\nPreço por caixa: R$ 46,50",
+        "description":  "Código: 100570\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,30",
         "code":  "100570",
         "catalogDetails":  [
                                {
@@ -1842,12 +1662,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 9,30"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 46,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1863,7 +1678,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100571\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,78\nPreço por caixa: R$ 33,90",
+        "description":  "Código: 100571\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,78",
         "code":  "100571",
         "catalogDetails":  [
                                {
@@ -1893,12 +1708,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 6,78"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 33,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1914,7 +1724,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100882\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98\nPreço por caixa: R$ 24,90",
+        "description":  "Código: 100882\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,98",
         "code":  "100882",
         "catalogDetails":  [
                                {
@@ -1944,12 +1754,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 24,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -1965,7 +1770,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100689\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 12,58\nPreço por caixa: R$ 62,90",
+        "description":  "Código: 100689\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 12,58",
         "code":  "100689",
         "catalogDetails":  [
                                {
@@ -1995,12 +1800,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 12,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 62,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2016,7 +1816,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100572\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18\nPreço por caixa: R$ 25,90",
+        "description":  "Código: 100572\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 5,18",
         "code":  "100572",
         "catalogDetails":  [
                                {
@@ -2046,12 +1846,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 5,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 25,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2067,7 +1862,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100573\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 16,50\nPreço por caixa: R$ 82,50",
+        "description":  "Código: 100573\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 16,50",
         "code":  "100573",
         "catalogDetails":  [
                                {
@@ -2097,12 +1892,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 16,50"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 82,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2118,7 +1908,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100574\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,90\nPreço por caixa: R$ 34,50",
+        "description":  "Código: 100574\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 6,90",
         "code":  "100574",
         "catalogDetails":  [
                                {
@@ -2148,12 +1938,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 6,90"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 34,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2169,7 +1954,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100575\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,99\nPreço por caixa: R$ 24,95",
+        "description":  "Código: 100575\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,99",
         "code":  "100575",
         "catalogDetails":  [
                                {
@@ -2199,12 +1984,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,99"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 24,95"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2220,7 +2000,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100813\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 39,00\nPreço por caixa: R$ 195,00",
+        "description":  "Código: 100813\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 39,00",
         "code":  "100813",
         "catalogDetails":  [
                                {
@@ -2246,12 +2026,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 39,00"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 195,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2267,7 +2042,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 00813D\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10\nPreço por caixa: R$ 0,50",
+        "description":  "Código: 00813D\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 0,10",
         "code":  "00813D",
         "catalogDetails":  [
                                {
@@ -2293,12 +2068,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 0,10"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 0,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2314,7 +2084,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100576\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,98\nPreço por caixa: R$ 49,90",
+        "description":  "Código: 100576\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 9,98",
         "code":  "100576",
         "catalogDetails":  [
                                {
@@ -2344,12 +2114,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 9,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 49,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2365,7 +2130,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100577\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,10\nPreço por caixa: R$ 20,50",
+        "description":  "Código: 100577\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 4,10",
         "code":  "100577",
         "catalogDetails":  [
                                {
@@ -2395,12 +2160,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 4,10"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 20,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2416,7 +2176,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100888\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,90\nPreço por caixa: R$ 54,50",
+        "description":  "Código: 100888\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: IM/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 10,90",
         "code":  "100888",
         "catalogDetails":  [
                                {
@@ -2446,12 +2206,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 10,90"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 54,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2467,7 +2222,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100692\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,67\nPreço por caixa: R$ 38,39",
+        "description":  "Código: 100692\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 7,67",
         "code":  "100692",
         "catalogDetails":  [
                                {
@@ -2497,12 +2252,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 7,67"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 38,39"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2518,7 +2268,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100578\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 9,78\nPreço por caixa: R$ 48,90",
+        "description":  "Código: 100578\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 9,78",
         "code":  "100578",
         "catalogDetails":  [
                                {
@@ -2548,12 +2298,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "9,78"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 48,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2569,7 +2314,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100879\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11 ,58\nPreço por caixa: R$ 57,90",
+        "description":  "Código: 100879\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11 ,58",
         "code":  "100879",
         "catalogDetails":  [
                                {
@@ -2599,12 +2344,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "11 ,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 57,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2620,7 +2360,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100880\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98\nPreço por caixa: R$ 54,90",
+        "description":  "Código: 100880\nEstoque: Não informado na tabela\nVolume: 2ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98",
         "code":  "100880",
         "catalogDetails":  [
                                {
@@ -2646,12 +2386,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "10,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 54,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2667,7 +2402,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100881\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,98\nPreço por caixa: R$ 34,90",
+        "description":  "Código: 100881\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,98",
         "code":  "100881",
         "catalogDetails":  [
                                {
@@ -2697,12 +2432,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "6,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 34,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2718,7 +2448,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100579\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90",
+        "description":  "Código: 100579\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78",
         "code":  "100579",
         "catalogDetails":  [
                                {
@@ -2748,12 +2478,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,78"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 23,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2769,7 +2494,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100580\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 8,98\nPreço por caixa: R$ 44,90",
+        "description":  "Código: 100580\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 8,98",
         "code":  "100580",
         "catalogDetails":  [
                                {
@@ -2799,12 +2524,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "8,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 44,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2820,7 +2540,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100581\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90",
+        "description":  "Código: 100581\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18",
         "code":  "100581",
         "catalogDetails":  [
                                {
@@ -2850,12 +2570,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 20,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2871,7 +2586,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100583\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58\nPreço por caixa: R$ 22,90",
+        "description":  "Código: 100583\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58",
         "code":  "100583",
         "catalogDetails":  [
                                {
@@ -2901,12 +2616,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 22,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2922,7 +2632,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100584\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90",
+        "description":  "Código: 100584\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38",
         "code":  "100584",
         "catalogDetails":  [
                                {
@@ -2952,12 +2662,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,38"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 21 ,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -2973,7 +2678,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100585\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90",
+        "description":  "Código: 100585\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18",
         "code":  "100585",
         "catalogDetails":  [
                                {
@@ -3003,12 +2708,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "6,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 30,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3024,7 +2724,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100586\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90",
+        "description":  "Código: 100586\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18",
         "code":  "100586",
         "catalogDetails":  [
                                {
@@ -3054,12 +2754,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 20,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3075,7 +2770,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100587\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IWID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 3,74\nPreço por caixa: R$ 18,70",
+        "description":  "Código: 100587\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IWID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 3,74",
         "code":  "100587",
         "catalogDetails":  [
                                {
@@ -3105,12 +2800,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "3,74"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 18,70"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3126,7 +2816,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100588\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90",
+        "description":  "Código: 100588\nEstoque: Não informado na tabela\nVolume: 5ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18",
         "code":  "100588",
         "catalogDetails":  [
                                {
@@ -3156,12 +2846,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "6,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 30,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3177,7 +2862,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100589\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18\nPreço por caixa: R$ 30,90",
+        "description":  "Código: 100589\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,18",
         "code":  "100589",
         "catalogDetails":  [
                                {
@@ -3207,12 +2892,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "6,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 30,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3228,7 +2908,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100897\nEstoque: Não informado na tabela\nVolume: 1.0ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 800,00\nPreço por caixa: R$ 800,00",
+        "description":  "Código: 100897\nEstoque: Não informado na tabela\nVolume: 1.0ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 800,00",
         "code":  "100897",
         "catalogDetails":  [
                                {
@@ -3258,12 +2938,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "800,00"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 800,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3279,7 +2954,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100898\nEstoque: Não informado na tabela\nVolume: 1.2ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.200,oo\nPreço por caixa: R$ 1.200,00",
+        "description":  "Código: 100898\nEstoque: Não informado na tabela\nVolume: 1.2ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.200,oo",
         "code":  "100898",
         "catalogDetails":  [
                                {
@@ -3309,12 +2984,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "1.200,oo"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 1.200,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3330,7 +3000,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100900\nEstoque: Não informado na tabela\nVolume: 1.6ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.400,oo\nPreço por caixa: R$ 1.400,00",
+        "description":  "Código: 100900\nEstoque: Não informado na tabela\nVolume: 1.6ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.400,oo",
         "code":  "100900",
         "catalogDetails":  [
                                {
@@ -3360,12 +3030,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "1.400,oo"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 1.400,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3381,7 +3046,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100901\nEstoque: Não informado na tabela\nVolume: 2.4ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.680,oo\nPreço por caixa: R$ 1.680,00",
+        "description":  "Código: 100901\nEstoque: Não informado na tabela\nVolume: 2.4ML\nVia de administração: sc\nUnidade: 1 AMP\nApresentação: 1 AMP\nPreço unitário: 1.680,oo",
         "code":  "100901",
         "catalogDetails":  [
                                {
@@ -3411,12 +3076,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "1.680,oo"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 1.680,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3432,7 +3092,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100902\nEstoque: Não informado na tabela\nVolume: 3.6ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 2.000,00\nPreço por caixa: R$ 2.000,00",
+        "description":  "Código: 100902\nEstoque: Não informado na tabela\nVolume: 3.6ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 1 AMP\nPreço unitário: 2.000,00",
         "code":  "100902",
         "catalogDetails":  [
                                {
@@ -3462,12 +3122,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "2.000,00"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 2.000,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3483,7 +3138,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100697\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 21 ,98\nPreço por caixa: R$ 109,90",
+        "description":  "Código: 100697\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 21 ,98",
         "code":  "100697",
         "catalogDetails":  [
                                {
@@ -3513,12 +3168,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "21 ,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 109,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3534,7 +3184,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100592\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 30,98\nPreço por caixa: R$ 154,90",
+        "description":  "Código: 100592\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 30,98",
         "code":  "100592",
         "catalogDetails":  [
                                {
@@ -3564,12 +3214,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "30,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 154,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3585,7 +3230,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100593\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 27,50\nPreço por caixa: R$ 137,50",
+        "description":  "Código: 100593\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 27,50",
         "code":  "100593",
         "catalogDetails":  [
                                {
@@ -3615,12 +3260,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "27,50"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 137,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3636,7 +3276,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100594\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11\nPreço por caixa: R$ 59,90",
+        "description":  "Código: 100594\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: sc\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11",
         "code":  "100594",
         "catalogDetails":  [
                                {
@@ -3666,12 +3306,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "11"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 59,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3687,7 +3322,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100595\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,38\nPreço por caixa: R$ 31",
+        "description":  "Código: 100595\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 6,38",
         "code":  "100595",
         "catalogDetails":  [
                                {
@@ -3717,12 +3352,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "6,38"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 31"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3738,7 +3368,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100596\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,18\nPreço por caixa: R$ 25,90",
+        "description":  "Código: 100596\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,18",
         "code":  "100596",
         "catalogDetails":  [
                                {
@@ -3764,12 +3394,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "5,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 25,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3785,7 +3410,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100597\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,62\nPreço por caixa: R$ 23,10",
+        "description":  "Código: 100597\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,62",
         "code":  "100597",
         "catalogDetails":  [
                                {
@@ -3815,12 +3440,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,62"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 23,10"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3836,7 +3456,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100599\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 17,90\nPreço por caixa: R$ 89,50",
+        "description":  "Código: 100599\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 17,90",
         "code":  "100599",
         "catalogDetails":  [
                                {
@@ -3866,12 +3486,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "17,90"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 89,50"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3887,7 +3502,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100600\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 24,20\nPreço por caixa: R$ 121",
+        "description":  "Código: 100600\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 24,20",
         "code":  "100600",
         "catalogDetails":  [
                                {
@@ -3917,12 +3532,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "24,20"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 121"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3938,7 +3548,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100601\nEstoque: Não informado na tabela\nVolume: 1 ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11\nPreço por caixa: R$ 59,90",
+        "description":  "Código: 100601\nEstoque: Não informado na tabela\nVolume: 1 ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 11",
         "code":  "100601",
         "catalogDetails":  [
                                {
@@ -3968,12 +3578,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "11"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 59,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -3989,7 +3594,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100602\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58\nPreço por caixa: R$ 22,90",
+        "description":  "Código: 100602\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,58",
         "code":  "100602",
         "catalogDetails":  [
                                {
@@ -4019,12 +3624,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 22,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4040,7 +3640,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100603\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18\nPreço por caixa: R$ 20,90",
+        "description":  "Código: 100603\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,18",
         "code":  "100603",
         "catalogDetails":  [
                                {
@@ -4070,12 +3670,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 20,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4091,7 +3686,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100604\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21",
+        "description":  "Código: 100604\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38",
         "code":  "100604",
         "catalogDetails":  [
                                {
@@ -4121,12 +3716,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,38"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 21"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4142,7 +3732,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100605\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38\nPreço por caixa: R$ 21 ,90",
+        "description":  "Código: 100605\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,38",
         "code":  "100605",
         "catalogDetails":  [
                                {
@@ -4172,12 +3762,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,38"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 21 ,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4193,7 +3778,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100606\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,84\nPreço por caixa: R$ 24,20",
+        "description":  "Código: 100606\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC/ID\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,84",
         "code":  "100606",
         "catalogDetails":  [
                                {
@@ -4223,12 +3808,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,84"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 24,20"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4244,7 +3824,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100607\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98\nPreço por caixa: R$ 54,90",
+        "description":  "Código: 100607\nEstoque: Não informado na tabela\nVolume: IML\nVia de administração: IM/SC/EV\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 10,98",
         "code":  "100607",
         "catalogDetails":  [
                                {
@@ -4274,12 +3854,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "10,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 54,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4295,7 +3870,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100608\nEstoque: Não informado na tabela\nVolume: 5ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90",
+        "description":  "Código: 100608\nEstoque: Não informado na tabela\nVolume: 5ML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78",
         "code":  "100608",
         "catalogDetails":  [
                                {
@@ -4321,12 +3896,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,78"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 23,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4342,7 +3912,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100609\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78\nPreço por caixa: R$ 23,90",
+        "description":  "Código: 100609\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: EV/IM/SC\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 4,78",
         "code":  "100609",
         "catalogDetails":  [
                                {
@@ -4372,12 +3942,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "4,78"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 23,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4393,7 +3958,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100610\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 23,04\nPreço por caixa: R$ 115,20",
+        "description":  "Código: 100610\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 23,04",
         "code":  "100610",
         "catalogDetails":  [
                                {
@@ -4419,12 +3984,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "23,04"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 115,20"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4440,7 +4000,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100611\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,18\nPreço por caixa: R$ 125,90",
+        "description":  "Código: 100611\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,18",
         "code":  "100611",
         "catalogDetails":  [
                                {
@@ -4466,12 +4026,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "25,18"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 125,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4487,7 +4042,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100612\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,58\nPreço por caixa: R$ 27,90",
+        "description":  "Código: 100612\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,58",
         "code":  "100612",
         "catalogDetails":  [
                                {
@@ -4513,12 +4068,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "5,58"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 27,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4534,7 +4084,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100613\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,06\nPreço por caixa: R$ 25,30",
+        "description":  "Código: 100613\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 5,06",
         "code":  "100613",
         "catalogDetails":  [
                                {
@@ -4560,12 +4110,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "5,06"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 25,30"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4581,7 +4126,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100294\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
+        "description":  "Código: 100294\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100294",
         "catalogDetails":  [
                                {
@@ -4599,12 +4144,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 339,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4620,7 +4160,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100877\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90",
+        "description":  "Código: 100877\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100877",
         "catalogDetails":  [
                                {
@@ -4638,12 +4178,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 399,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4659,7 +4194,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100251 / 100252\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 12 Frascos\nPreço por caixa: R$ 545,90",
+        "description":  "Código: 100251 / 100252\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 12 Frascos",
         "code":  "100251 / 100252",
         "catalogDetails":  [
                                {
@@ -4677,12 +4212,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "12 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 545,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4698,7 +4228,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100123\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90",
+        "description":  "Código: 100123\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100123",
         "catalogDetails":  [
                                {
@@ -4716,12 +4246,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 399,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4737,7 +4262,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100260\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 369,90",
+        "description":  "Código: 100260\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100260",
         "catalogDetails":  [
                                {
@@ -4755,12 +4280,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 369,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4776,7 +4296,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100618\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 399,90",
+        "description":  "Código: 100618\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100618",
         "catalogDetails":  [
                                {
@@ -4794,12 +4314,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 399,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4815,7 +4330,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100662\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 5 Frascos\nPreço por caixa: R$ 359,90",
+        "description":  "Código: 100662\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 5 Frascos",
         "code":  "100662",
         "catalogDetails":  [
                                {
@@ -4833,12 +4348,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "5 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 359,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4854,7 +4364,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100739 / 100740\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 499,90",
+        "description":  "Código: 100739 / 100740\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 6 Frascos",
         "code":  "100739 / 100740",
         "catalogDetails":  [
                                {
@@ -4872,12 +4382,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 499,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4893,7 +4398,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100615\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 319,90",
+        "description":  "Código: 100615\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100615",
         "catalogDetails":  [
                                {
@@ -4911,12 +4416,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 319,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4932,7 +4432,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100270\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
+        "description":  "Código: 100270\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100270",
         "catalogDetails":  [
                                {
@@ -4950,12 +4450,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 339,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -4971,7 +4466,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100258\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 299,90",
+        "description":  "Código: 100258\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos",
         "code":  "100258",
         "catalogDetails":  [
                                {
@@ -4989,12 +4484,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 299,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5010,7 +4500,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100255\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
+        "description":  "Código: 100255\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100255",
         "catalogDetails":  [
                                {
@@ -5028,12 +4518,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 339,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5049,7 +4534,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100261\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 269,90",
+        "description":  "Código: 100261\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100261",
         "catalogDetails":  [
                                {
@@ -5067,12 +4552,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 269,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5088,7 +4568,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100262\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 269,90",
+        "description":  "Código: 100262\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100262",
         "catalogDetails":  [
                                {
@@ -5106,12 +4586,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 269,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5127,7 +4602,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100915\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmon Harmony In•ect Inject Face Face diluente\nApresentação: 2g\nPreço por caixa: R$ 504,00",
+        "description":  "Código: 100915\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmon Harmony In•ect Inject Face Face diluente\nApresentação: 2g",
         "code":  "100915",
         "catalogDetails":  [
                                {
@@ -5145,12 +4620,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "2g"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 504,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5166,7 +4636,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100916\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmony Harmony Inject Inject Glúteos Glúteos\nApresentação: diluente 2g\nPreço por caixa: R$ 504,00",
+        "description":  "Código: 100916\nEstoque: Não informado na tabela\nVolume: 3 3 Frascos Frascos Harmony Harmony Inject Inject Glúteos Glúteos\nApresentação: diluente 2g",
         "code":  "100916",
         "catalogDetails":  [
                                {
@@ -5184,12 +4654,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "diluente 2g"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 504,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5205,7 +4670,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100269\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
+        "description":  "Código: 100269\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100269",
         "catalogDetails":  [
                                {
@@ -5223,12 +4688,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 339,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5244,7 +4704,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100744\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 339,90",
+        "description":  "Código: 100744\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100744",
         "catalogDetails":  [
                                {
@@ -5262,12 +4722,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 339,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5283,7 +4738,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100863\nEstoque: Não informado na tabela\nVolume: 5 ML 5\nApresentação: Ampolas\nPreço por caixa: R$ 219,90",
+        "description":  "Código: 100863\nEstoque: Não informado na tabela\nVolume: 5 ML 5\nApresentação: Ampolas",
         "code":  "100863",
         "catalogDetails":  [
                                {
@@ -5301,12 +4756,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "Ampolas"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 219,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5322,7 +4772,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100253\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 499,90",
+        "description":  "Código: 100253\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 3 Frascos",
         "code":  "100253",
         "catalogDetails":  [
                                {
@@ -5340,12 +4790,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 499,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5361,7 +4806,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100622\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 677,90",
+        "description":  "Código: 100622\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100622",
         "catalogDetails":  [
                                {
@@ -5379,12 +4824,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 677,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5400,7 +4840,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100254\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 677,90",
+        "description":  "Código: 100254\nEstoque: Não informado na tabela\nVolume: 4 ML\nApresentação: 3 Frascos",
         "code":  "100254",
         "catalogDetails":  [
                                {
@@ -5418,12 +4858,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 677,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5439,7 +4874,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100855\nEstoque: Não informado na tabela\nVolume: 1 Detox + Hepático 2 Emagrecedor + 4 Redumax + 1 Acelerador Slim Gordura Metabólico\nApresentação: 2 + 8 Morosil\nPreço por caixa: R$ 612,98",
+        "description":  "Código: 100855\nEstoque: Não informado na tabela\nVolume: 1 Detox + Hepático 2 Emagrecedor + 4 Redumax + 1 Acelerador Slim Gordura Metabólico\nApresentação: 2 + 8 Morosil",
         "code":  "100855",
         "catalogDetails":  [
                                {
@@ -5457,12 +4892,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "2 + 8 Morosil"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 612,98"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5478,7 +4908,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100259\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos\nPreço por caixa: R$ 319,90",
+        "description":  "Código: 100259\nEstoque: Não informado na tabela\nVolume: 3 ML\nApresentação: 3 Frascos",
         "code":  "100259",
         "catalogDetails":  [
                                {
@@ -5496,12 +4926,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "3 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 319,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5517,7 +4942,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100265\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
+        "description":  "Código: 100265\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100265",
         "catalogDetails":  [
                                {
@@ -5535,12 +4960,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 339,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5556,7 +4976,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100266\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 339,90",
+        "description":  "Código: 100266\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100266",
         "catalogDetails":  [
                                {
@@ -5574,12 +4994,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 339,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5595,7 +5010,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100263\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 329,90",
+        "description":  "Código: 100263\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100263",
         "catalogDetails":  [
                                {
@@ -5613,12 +5028,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 329,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5634,7 +5044,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100264\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 329,90",
+        "description":  "Código: 100264\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100264",
         "catalogDetails":  [
                                {
@@ -5652,12 +5062,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 329,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5673,7 +5078,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100268\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 349,90",
+        "description":  "Código: 100268\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100268",
         "catalogDetails":  [
                                {
@@ -5691,12 +5096,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 349,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5712,7 +5112,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100267\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 349,90",
+        "description":  "Código: 100267\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100267",
         "catalogDetails":  [
                                {
@@ -5730,12 +5130,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 349,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5751,7 +5146,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100623\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 90,00",
+        "description":  "Código: 100623\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100623",
         "catalogDetails":  [
                                {
@@ -5769,12 +5164,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 90,00"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5790,7 +5180,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100892\nEstoque: Não informado na tabela\nVolume: 1 Frasco NCT + 1 Skin Frasco Booster PDRN + System 1 Frasco\nApresentação: Hyalumax\nPreço por caixa: R$ 399,90",
+        "description":  "Código: 100892\nEstoque: Não informado na tabela\nVolume: 1 Frasco NCT + 1 Skin Frasco Booster PDRN + System 1 Frasco\nApresentação: Hyalumax",
         "code":  "100892",
         "catalogDetails":  [
                                {
@@ -5808,12 +5198,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "Hyalumax"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 399,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5829,7 +5214,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100862\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos\nPreço por caixa: R$ 249,90",
+        "description":  "Código: 100862\nEstoque: Não informado na tabela\nVolume: 5 ML\nApresentação: 6 Frascos",
         "code":  "100862",
         "catalogDetails":  [
                                {
@@ -5847,12 +5232,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "6 Frascos"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 249,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5868,7 +5248,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100861\nEstoque: Não informado na tabela\nVolume: 6 frascos redutores de celulite + 6 unidades Hyluronidase\nApresentação: 2.000 UTR\nPreço por caixa: R$ 399,80",
+        "description":  "Código: 100861\nEstoque: Não informado na tabela\nVolume: 6 frascos redutores de celulite + 6 unidades Hyluronidase\nApresentação: 2.000 UTR",
         "code":  "100861",
         "catalogDetails":  [
                                {
@@ -5886,12 +5266,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "2.000 UTR"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 399,80"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -5907,7 +5282,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100624\nEstoque: Não informado na tabela\nVolume: 1 Acelerador + 3 FIRM corp Metabólico + 1 COLAGENOL + 3 Emagrecedores FASE 1 + 7 + Diluentes 1\nApresentação: Hipertrofia Funcionais Muscular\nPreço por caixa: R$ 679,90",
+        "description":  "Código: 100624\nEstoque: Não informado na tabela\nVolume: 1 Acelerador + 3 FIRM corp Metabólico + 1 COLAGENOL + 3 Emagrecedores FASE 1 + 7 + Diluentes 1\nApresentação: Hipertrofia Funcionais Muscular",
         "code":  "100624",
         "catalogDetails":  [
                                {
@@ -5925,12 +5300,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Apresentação",
                                    "value":  "Hipertrofia Funcionais Muscular"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 679,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -6296,7 +5666,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100884\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78\nPreço por caixa: R$ 43,90",
+        "description":  "Código: 100884\nEstoque: Não informado na tabela\nVolume: 2ML\nVia de administração: SC/ID\nUnidade: 1 AMP\nApresentação: 5 AMP\nPreço unitário: R$ 8,78",
         "code":  "100884",
         "catalogDetails":  [
                                {
@@ -6326,12 +5696,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "R$ 8,78"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 43,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     },
     {
@@ -6347,7 +5712,7 @@ window.COSMOPHARMA_PRODUCTS = [
         "badge":  "Preço por caixa",
         "stock":  0,
         "image":  "",
-        "description":  "Código: 100614\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,98\nPreço por caixa: R$ 129,90",
+        "description":  "Código: 100614\nEstoque: Não informado na tabela\nVolume: IML\nUnidade: 1 AMP R$\nApresentação: 5 AMP\nPreço unitário: 25,98",
         "code":  "100614",
         "catalogDetails":  [
                                {
@@ -6373,12 +5738,7 @@ window.COSMOPHARMA_PRODUCTS = [
                                {
                                    "label":  "Preço unitário",
                                    "value":  "25,98"
-                               },
-                               {
-                                   "label":  "Preço por caixa",
-                                   "value":  "R$ 129,90"
-                               }
-                           ],
+                               },],
         "priceBasis":  "box"
     }
 ];
